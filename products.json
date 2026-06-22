@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-06-22T01:46:31.839Z",
+  "updated_at": "2026-06-22T17:21:46.646Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
-  "count": 22,
+  "count": 25,
   "items": [
+    {
+      "name": "南アフリカ代表 スプリングボクス 2026 RGR TOUR フーディー",
+      "price": "¥25,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/iu4972-063_1.webp?t=20260622161600",
+      "url": "https://www.rugbygoods.com/SHOP/IU4972-063.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 2026 RGR Tour キャップ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/iu4966-002_1.webp?t=20260622155445",
+      "url": "https://www.rugbygoods.com/SHOP/IU4966-002.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 2026 TRUCKER キャップ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/iu4551-330_1.webp?t=20260622152931",
+      "url": "https://www.rugbygoods.com/SHOP/IU4551-330.html"
+    },
     {
       "name": "モアナパシフィカ 2026 MEDIAキャップ",
       "price": "¥9,900",
