@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-06-22T23:06:02.968Z",
+  "updated_at": "2026-06-23T11:42:37.279Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
-  "count": 25,
+  "count": 24,
   "items": [
+    {
+      "name": "オーストラリア代表 ワラビーズ 26/27 TRAVEL ポロシャツ スカイ",
+      "price": "¥22,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TM14842-1.JPG?t=20260623161851",
+      "url": "https://www.rugbygoods.com/SHOP/TM14842.html"
+    },
     {
       "name": "南アフリカ代表 スプリングボクス 2026 RGR TOUR フーディー",
       "price": "¥25,300",
@@ -22,6 +28,12 @@
       "url": "https://www.rugbygoods.com/SHOP/IU4551-330.html"
     },
     {
+      "name": "IMPACT V2 Premium Vented TSURU",
+      "price": "¥13,750",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IMPACT_TSURU_1.png?t=20260619161753",
+      "url": "https://www.rugbygoods.com/SHOP/im-v2-tsuru.html"
+    },
+    {
       "name": "モアナパシフィカ 2026 MEDIAキャップ",
       "price": "¥9,900",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/2026MoanaPasifikaMediaCap-Black_MPHTM26001_1.jpg?t=20260618173748",
@@ -38,12 +50,6 @@
       "price": "¥1,430",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SR240605009_01.webp?t=20260616182055",
       "url": "https://www.rugbygoods.com/SHOP/RJ53296.html"
-    },
-    {
-      "name": "ラグビー日本代表 フライトタグキーリング(RED)",
-      "price": "¥1,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SSZS-54808-.jpg?t=20260616181234",
-      "url": "https://www.rugbygoods.com/SHOP/RJ54763.html"
     },
     {
       "name": "ウェールズ代表 25/26 Trucker キャップ",
@@ -100,12 +106,6 @@
       "url": "https://www.rugbygoods.com/SHOP/CSI-CR26MSI1.html"
     },
     {
-      "name": "ラグビー日本代表 2026 ジャパン スポーツバッグ",
-      "price": "¥17,600",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/A025833JP-1.png?t=20260608114650",
-      "url": "https://www.rugbygoods.com/SHOP/A025833JP.html"
-    },
-    {
       "name": "ウェールズ代表 25/26 サックパック",
       "price": "¥5,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/40007575-1.webp?t=20260601161509",
@@ -122,12 +122,6 @@
       "price": "¥15,400",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/DYMP26GSN-1.webp?t=20260529115904",
       "url": "https://www.rugbygoods.com/SHOP/DSMP26GSN.html"
-    },
-    {
-      "name": "スコットランド代表 24/25 子供用 バスケットボールシングレット",
-      "price": "¥7,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/mcsct24bb-1.webp?t=20260528162456",
-      "url": "https://www.rugbygoods.com/SHOP/MCSCKBS.html"
     },
     {
       "name": "スコットランド代表 24/25 バスケットボールシングレット",
