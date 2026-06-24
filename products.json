@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-06-23T11:42:37.279Z",
+  "updated_at": "2026-06-24T10:36:23.494Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
-  "count": 24,
+  "count": 25,
   "items": [
+    {
+      "name": "ラグビー日本代表 ジャパン 25/26 レプリカオルタネイトジャージ",
+      "price": "¥13,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/1_000000009342.png?t=20260624115452",
+      "url": "https://www.rugbygoods.com/SHOP/RG325789.html"
+    },
     {
       "name": "オーストラリア代表 ワラビーズ 26/27 TRAVEL ポロシャツ スカイ",
       "price": "¥22,000",
