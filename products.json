@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-06-25T19:20:11.803Z",
+  "updated_at": "2026-06-26T10:40:05.712Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
-  "count": 25,
+  "count": 27,
   "items": [
+    {
+      "name": "Ren-G(レンジー)　Ren(レン)　ぬいぐるみ",
+      "price": "¥3,080",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/968_b09p16d1n2.jpg?t=20260626104434",
+      "url": "https://www.rugbygoods.com/SHOP/182497.html"
+    },
+    {
+      "name": "Ren-G(レンジー)　G(ジー)　ぬいぐるみ",
+      "price": "¥3,080",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/182498.jpg?t=20260626103228",
+      "url": "https://www.rugbygoods.com/SHOP/182498.html"
+    },
     {
       "name": "ラグビー日本代表 ジャパン 25/26 レプリカオルタネイトジャージ",
       "price": "¥13,200",
