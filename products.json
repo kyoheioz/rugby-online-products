@@ -1,8 +1,80 @@
 {
-  "updated_at": "2026-06-26T18:12:21.541Z",
+  "updated_at": "2026-06-27T09:18:52.901Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
-  "count": 27,
+  "count": 39,
   "items": [
+    {
+      "name": "オールブラックス 26/27 GYM ショーツ",
+      "price": "¥9,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF1544-1.jpg?t=20260627113936",
+      "url": "https://www.rugbygoods.com/SHOP/KF1544.html"
+    },
+    {
+      "name": "オールブラックス 26/27 トレーニングポロシャツ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF1546-1.jpg?t=20260627112457",
+      "url": "https://www.rugbygoods.com/SHOP/KF1546.html"
+    },
+    {
+      "name": "オールブラックス 26/27 スウェットフーディー",
+      "price": "¥14,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__123224115.jpg?t=20260627180712",
+      "url": "https://www.rugbygoods.com/SHOP/KF1556.html"
+    },
+    {
+      "name": "オールブラックス 26/27 トレーニングロングパンツ",
+      "price": "¥13,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF1568-1.jpg?t=20260627111331",
+      "url": "https://www.rugbygoods.com/SHOP/KF1568.html"
+    },
+    {
+      "name": "フィジー代表 2026 キャップ",
+      "price": "¥7,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/FR100502-2-removebg-preview.png?t=20260627120744",
+      "url": "https://www.rugbygoods.com/SHOP/FR100502.html"
+    },
+    {
+      "name": "フィジー代表 2026 トレーニング シングレット",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/FR105493-1.png?t=20260627101311",
+      "url": "https://www.rugbygoods.com/SHOP/FR105493.html"
+    },
+    {
+      "name": "フィジー代表 2026 トレーニング Tシャツ",
+      "price": "¥12,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__123224112.jpg?t=20260627181008",
+      "url": "https://www.rugbygoods.com/SHOP/FR105496.html"
+    },
+    {
+      "name": "フィジー代表 2026 Pre Match Tシャツ",
+      "price": "¥13,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__123224119_0.jpg?t=20260627181300",
+      "url": "https://www.rugbygoods.com/SHOP/FR105491.html"
+    },
+    {
+      "name": "フィジー代表 2026 トレーニング ショーツ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/FR105674.png?t=20260627093425",
+      "url": "https://www.rugbygoods.com/SHOP/FR105674.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 優勝記念キャップ【事前予約商品】",
+      "price": "¥7,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Photoroom_20260626_124250.png?t=20260627064247",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HUR26-WINNERSCAP.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 優勝記念 Tシャツ【事前予約商品】",
+      "price": "¥8,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Photoroom_20260626_124314.png?t=20260627062904",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-Caneswinner-T.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 優勝記念 ジャージ【事前予約商品】",
+      "price": "¥19,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Canes-winner-jsy-1.png?t=20260627060948",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HUR26WINNERS-JSY.html"
+    },
     {
       "name": "Ren-G(レンジー)　Ren(レン)　ぬいぐるみ",
       "price": "¥3,080",
