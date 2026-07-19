@@ -1,8 +1,128 @@
 {
-  "updated_at": "2026-06-30T18:23:32.069Z",
+  "updated_at": "2026-07-19T07:57:26.095Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
-  "count": 23,
+  "count": 40,
   "items": [
+    {
+      "name": "British & Irish Lions 2025 OUTBACK ロングパンツ",
+      "price": "¥6,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Q-A009143-1.JPG?t=20260719115941",
+      "url": "https://www.rugbygoods.com/SHOP/Q-A009143.html"
+    },
+    {
+      "name": "UAステルス フォーム アンクラッシャブル キャップ グレー",
+      "price": "¥6,490",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/50792039100O-removebg-preview.png?t=20260717175825",
+      "url": "https://www.rugbygoods.com/SHOP/6000413-025.html"
+    },
+    {
+      "name": "UAステルス フォーム アンクラッシャブル キャップ カーキ",
+      "price": "¥6,490",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/5084250020AT-removebg-preview.png?t=20260717175845",
+      "url": "https://www.rugbygoods.com/SHOP/6000413-390.html"
+    },
+    {
+      "name": "ジャパン ショートスリーブ イングランドタイプジャージー ネイビー",
+      "price": "¥13,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/square-image-1-removebg-preview.png?t=20260714171140",
+      "url": "https://www.rugbygoods.com/SHOP/RLU32650SN.html"
+    },
+    {
+      "name": "ジャパン ショートスリーブ イングランドタイプジャージー レッド",
+      "price": "¥13,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RLU32650SRD-1-removebg-preview.png?t=20260714171203",
+      "url": "https://www.rugbygoods.com/SHOP/RLU32650SRD.html"
+    },
+    {
+      "name": "ラグビー日本代表 ジャパン スペクテーターリバーシブルハット",
+      "price": "¥6,600",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/square-image1.png?t=20260711102152",
+      "url": "https://www.rugbygoods.com/SHOP/RLUC2658S.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE 長袖ジャージ",
+      "price": "¥27,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SA_LS_2026_1.png?t=20260711104318",
+      "url": "https://www.rugbygoods.com/SHOP/IU4616.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE ジャージ",
+      "price": "¥26,400",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SA_SS_2026_1_1.png?t=20260711141537",
+      "url": "https://www.rugbygoods.com/SHOP/IU4543.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 ポロシャツ",
+      "price": "¥18,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU4619-1-1.jpg?t=20260711104159",
+      "url": "https://www.rugbygoods.com/SHOP/IU4619.html"
+    },
+    {
+      "name": "レッズ 2026 アウェイジャージ",
+      "price": "¥17,600",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/REDS_ALT_INDG_JSY2026_1.png?t=20260707133502",
+      "url": "https://www.rugbygoods.com/SHOP/QA009970.html"
+    },
+    {
+      "name": "NEW ERA 9FIFTY フランス代表 Retro Crown Heritage キャップ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/60432059-1.jpg?t=20260706175745",
+      "url": "https://www.rugbygoods.com/SHOP/60432059.html"
+    },
+    {
+      "name": "オーストラリア代表 ワラビーズ 26/27 ホームショーツ",
+      "price": "¥17,600",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TM14754-1.JPG?t=20260704182809",
+      "url": "https://www.rugbygoods.com/SHOP/TM14754.html"
+    },
+    {
+      "name": "オーストラリア代表 ワラビーズ 26/27 Performance  Long Sleeve Tシャツ",
+      "price": "¥20,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Wallabies_LSTee_2026_1_1.png?t=20260705122330",
+      "url": "https://www.rugbygoods.com/SHOP/TM14794.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 トロフィーピンバッジ ゴールド",
+      "price": "¥1,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_TRPY_pin_1.png?t=20260701172221",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027TROPHYPIN.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 シンボルピンバッジ ゴールド",
+      "price": "¥1,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_GLD_Sybl_pin_1.png?t=20260701174639",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027SYMBOLPING.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ロゴピンバッジ シルバー",
+      "price": "¥1,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_SLV_Logo_pin_1.png?t=20260701171420",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027LOGOPINS.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ロゴピンバッジ ゴールド",
+      "price": "¥1,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_GLD_Logo_pin_1.png?t=20260701171009",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027LOGOPING.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 3Dトロフィーキーリング",
+      "price": "¥2,310",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_TRPY_Key_1.png?t=20260701170119",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027TROPHYKEY.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ブーツキーリング",
+      "price": "¥1,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_Boots_key_1.png?t=20260701165028",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027BOOTKEY.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 シンボルキーリング ゴールド",
+      "price": "¥1,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_GLD_Logo_key_1.png?t=20260701163917",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027SYMBOLKEYG.html"
+    },
     {
       "name": "Ren-G(レンジー)　Ren（レン)　マスコットキーチェーン",
       "price": "¥1,760",
@@ -14,18 +134,6 @@
       "price": "¥1,760",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JPN_RENG_Mascot_G.png?t=20260630115113",
       "url": "https://www.rugbygoods.com/SHOP/Ren-G-G-MSCTKC.html"
-    },
-    {
-      "name": "Griffin コンパクト4グリップヒットシールド",
-      "price": "¥18,150",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/grf-comhit1_AI.jpg?t=20251209171210",
-      "url": "https://www.rugbygoods.com/SHOP/grhs0001-2026-NEW.html"
-    },
-    {
-      "name": "Griffin MINIヒットシールド",
-      "price": "¥13,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/GR_HitSH_MINI-2.png?t=20260630110625",
-      "url": "https://www.rugbygoods.com/SHOP/grhs0003-2026-NEW.html"
     },
     {
       "name": "オールブラックス 26/27 GYM ショーツ",
@@ -40,16 +148,16 @@
       "url": "https://www.rugbygoods.com/SHOP/KF1546.html"
     },
     {
-      "name": "オールブラックス 26/27 スウェットフーディー",
-      "price": "¥14,300",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__123224115.jpg?t=20260627180712",
-      "url": "https://www.rugbygoods.com/SHOP/KF1556.html"
-    },
-    {
       "name": "オールブラックス 26/27 トレーニングロングパンツ",
       "price": "¥13,200",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF1568-1.jpg?t=20260627111331",
       "url": "https://www.rugbygoods.com/SHOP/KF1568.html"
+    },
+    {
+      "name": "オールブラックス 26/27 スウェットフーディー",
+      "price": "¥14,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__123224115.jpg?t=20260627180712",
+      "url": "https://www.rugbygoods.com/SHOP/KF1556.html"
     },
     {
       "name": "フィジー代表 2026 キャップ",
@@ -60,13 +168,13 @@
     {
       "name": "フィジー代表 2026 トレーニング シングレット",
       "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/FR105493-1.png?t=20260627101311",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/1514665.jpg?t=20260708114942",
       "url": "https://www.rugbygoods.com/SHOP/FR105493.html"
     },
     {
       "name": "フィジー代表 2026 トレーニング Tシャツ",
       "price": "¥12,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__123224112.jpg?t=20260627181008",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/196651659.jpg?t=20260708113951",
       "url": "https://www.rugbygoods.com/SHOP/FR105496.html"
     },
     {
@@ -134,12 +242,6 @@
       "price": "¥11,000",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/iu4966-002_1.webp?t=20260622155445",
       "url": "https://www.rugbygoods.com/SHOP/IU4966-002.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス 2026 TRUCKER キャップ",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/iu4551-330_1.webp?t=20260622152931",
-      "url": "https://www.rugbygoods.com/SHOP/IU4551-330.html"
     }
   ]
 }
