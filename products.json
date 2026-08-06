@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-08-06T01:26:09.926Z",
+  "updated_at": "2026-08-06T08:14:07.569Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "オールブラックス 2026 RGR バックパック",
+      "price": "¥12,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6273_4.jpg?t=20260806165600",
+      "url": "https://www.rugbygoods.com/SHOP/KW6273.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGR バケットハット",
+      "price": "¥7,150",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6271_1.jpg?t=20260806163522",
+      "url": "https://www.rugbygoods.com/SHOP/KW6271.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGR BASEBALL キャップ",
+      "price": "¥7,150",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6268_1.jpg?t=20260806162525",
+      "url": "https://www.rugbygoods.com/SHOP/KW6268.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGR デニム キャップ",
+      "price": "¥7,150",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6272_1.jpg?t=20260806161157",
+      "url": "https://www.rugbygoods.com/SHOP/KW6272.html"
+    },
     {
       "name": "南アフリカ代表 スプリングボクス 26/27 PULLOVER フーディー",
       "price": "¥25,300",
@@ -218,30 +242,6 @@
       "price": "¥20,900",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Wallabies_LSTee_2026_1_1.png?t=20260705122330",
       "url": "https://www.rugbygoods.com/SHOP/TM14794.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 トロフィーピンバッジ ゴールド",
-      "price": "¥1,300",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_TRPY_pin_1.png?t=20260701172221",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027TROPHYPIN.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 シンボルピンバッジ ゴールド",
-      "price": "¥1,300",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_GLD_Sybl_pin_1.png?t=20260701174639",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027SYMBOLPING.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ロゴピンバッジ シルバー",
-      "price": "¥1,300",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_SLV_Logo_pin_1.png?t=20260701171420",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027LOGOPINS.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ロゴピンバッジ ゴールド",
-      "price": "¥1,300",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027_GLD_Logo_pin_1.png?t=20260701171009",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027LOGOPING.html"
     }
   ]
 }
