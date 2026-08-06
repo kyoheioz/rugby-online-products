@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-08-06T08:14:07.569Z",
+  "updated_at": "2026-08-06T13:39:26.790Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "オールブラックス 2026 RGR ホームジャージ",
+      "price": "¥19,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2020_1.jpg?t=20260806204655",
+      "url": "https://www.rugbygoods.com/SHOP/KX2020.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGR SUPPORTER Tシャツ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX1979_1.jpg?t=20260806203802",
+      "url": "https://www.rugbygoods.com/SHOP/KX1979.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGR パフォーマンスTシャツ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX4785_1.jpg?t=20260806202341",
+      "url": "https://www.rugbygoods.com/SHOP/KX4785.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGRトレーニングジャージ",
+      "price": "¥19,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2879_1.jpg?t=20260806180435",
+      "url": "https://www.rugbygoods.com/SHOP/KX2879.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGR シングレット",
+      "price": "¥9,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2878_1.png?t=20260806184859",
+      "url": "https://www.rugbygoods.com/SHOP/KX2878.html"
+    },
+    {
+      "name": "オールブラックス 2026 RGR GYM ショーツ マローン",
+      "price": "¥9,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2877.png?t=20260806184726",
+      "url": "https://www.rugbygoods.com/SHOP/KX2877.html"
+    },
     {
       "name": "オールブラックス 2026 RGR バックパック",
       "price": "¥12,100",
@@ -206,42 +242,6 @@
       "price": "¥27,500",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SA_LS_2026_1.png?t=20260711104318",
       "url": "https://www.rugbygoods.com/SHOP/IU4616.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE ジャージ",
-      "price": "¥26,400",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SA_SS_2026_1_1.png?t=20260711141537",
-      "url": "https://www.rugbygoods.com/SHOP/IU4543.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス 26/27 ポロシャツ",
-      "price": "¥18,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU4619-1-1.jpg?t=20260711104159",
-      "url": "https://www.rugbygoods.com/SHOP/IU4619.html"
-    },
-    {
-      "name": "レッズ 2026 アウェイジャージ",
-      "price": "¥17,600",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/REDS_ALT_INDG_JSY2026_1.png?t=20260707133502",
-      "url": "https://www.rugbygoods.com/SHOP/QA009970.html"
-    },
-    {
-      "name": "NEW ERA 9FIFTY フランス代表 Retro Crown Heritage キャップ",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/60432059-1.jpg?t=20260706175745",
-      "url": "https://www.rugbygoods.com/SHOP/60432059.html"
-    },
-    {
-      "name": "オーストラリア代表 ワラビーズ 26/27 ホームショーツ",
-      "price": "¥17,600",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TM14754-1.JPG?t=20260704182809",
-      "url": "https://www.rugbygoods.com/SHOP/TM14754.html"
-    },
-    {
-      "name": "オーストラリア代表 ワラビーズ 26/27 Performance  Long Sleeve Tシャツ",
-      "price": "¥20,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Wallabies_LSTee_2026_1_1.png?t=20260705122330",
-      "url": "https://www.rugbygoods.com/SHOP/TM14794.html"
     }
   ]
 }
