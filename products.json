@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-08-10T07:08:11.702Z",
+  "updated_at": "2026-08-10T12:42:38.816Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "フィジアンドゥルア RUGBY キャップ グレー",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH545-1.jpeg?t=20260810162432",
+      "url": "https://www.rugbygoods.com/SHOP/AH545.html"
+    },
+    {
+      "name": "フィジー RUGBY キャップ KARAWA ブルー",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH542BL-1.png?t=20260810161539",
+      "url": "https://www.rugbygoods.com/SHOP/AH542BL.html"
+    },
+    {
+      "name": "フィジー RUGBY キャップ KARAWA ホワイト",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH542WH-1.png?t=20260810161043",
+      "url": "https://www.rugbygoods.com/SHOP/AH542WH.html"
+    },
     {
       "name": "フィジー RUGBY キャップ バーガンディ",
       "price": "¥5,500",
@@ -224,24 +242,6 @@
       "price": "¥8,800",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4835BK-1.jpg?t=20260731133642",
       "url": "https://www.rugbygoods.com/SHOP/SS4835BK.html"
-    },
-    {
-      "name": "フィジー代表 Fijian Bula Shirt  ホワイト【SS4835】",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4835WH-1.jpg?t=20260731133559",
-      "url": "https://www.rugbygoods.com/SHOP/SS4835WH.html"
-    },
-    {
-      "name": "オールブラックス Fijian Bula Shirt  ブラック【SS4271】",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4271BK-1.jpg?t=20260731133512",
-      "url": "https://www.rugbygoods.com/SHOP/SS4271BK.html"
-    },
-    {
-      "name": "オールブラックス Fijian Bula Shirt  ホワイト【SS4271】",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4271WH-1.jpg?t=20260731133432",
-      "url": "https://www.rugbygoods.com/SHOP/SS4271WH.html"
     }
   ]
 }
