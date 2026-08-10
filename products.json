@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-08-10T00:54:43.304Z",
+  "updated_at": "2026-08-10T07:08:11.702Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "フィジー RUGBY キャップ バーガンディ",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH551BG-1.jpeg?t=20260810121326",
+      "url": "https://www.rugbygoods.com/SHOP/AH551BG.html"
+    },
+    {
+      "name": "フィジー RUGBY キャップ ホワイト",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH551WH-1.jpeg?t=20260810115841",
+      "url": "https://www.rugbygoods.com/SHOP/AH551WH.html"
+    },
     {
       "name": "オールブラックス 26/27 WAIST バッグ",
       "price": "¥6,600",
@@ -230,18 +242,6 @@
       "price": "¥8,800",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4271WH-1.jpg?t=20260731133432",
       "url": "https://www.rugbygoods.com/SHOP/SS4271WH.html"
-    },
-    {
-      "name": "British & Irish Lions 2025 OUTBACK ロングパンツ",
-      "price": "¥6,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Q-A009143-1.JPG?t=20260719115941",
-      "url": "https://www.rugbygoods.com/SHOP/Q-A009143.html"
-    },
-    {
-      "name": "UAステルス フォーム アンクラッシャブル キャップ グレー",
-      "price": "¥6,490",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/50792039100O-removebg-preview.png?t=20260717175825",
-      "url": "https://www.rugbygoods.com/SHOP/6000413-025.html"
     }
   ]
 }
