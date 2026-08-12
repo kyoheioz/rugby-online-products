@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-08-12T01:00:51.117Z",
+  "updated_at": "2026-08-12T07:06:56.471Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "フィジアンドゥルア ドローコー バケットハット ブルー",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH554BL-1.jpg?t=20260812160411",
+      "url": "https://www.rugbygoods.com/SHOP/AH554BL.html"
+    },
+    {
+      "name": "フィジアンドゥルア ドローコー バケットハット ブラック",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH554BK-3.jpg?t=20260812160201",
+      "url": "https://www.rugbygoods.com/SHOP/AH554BK.html"
+    },
+    {
+      "name": "フィジアンドゥルア バケットハット ネイビー",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH555NV-1.jpg?t=20260812155928",
+      "url": "https://www.rugbygoods.com/SHOP/AH555NV.html"
+    },
+    {
+      "name": "フィジアンドゥルア バケットハット ブラック",
+      "price": "¥5,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH555BK-1.jpg?t=20260812155835",
+      "url": "https://www.rugbygoods.com/SHOP/AH555BK.html"
+    },
     {
       "name": "フィジアンドゥルア RUGBY キャップ グレー",
       "price": "¥5,500",
@@ -218,30 +242,6 @@
       "price": "¥2,970",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/imgrc0096841750.webp?t=20260724121548",
       "url": "https://www.rugbygoods.com/SHOP/JST-052.html"
-    },
-    {
-      "name": "ラグビー日本代表 メッシュトートバッグ",
-      "price": "¥2,420",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/rug-rj88030bg_4.jpg?t=20260724120353",
-      "url": "https://www.rugbygoods.com/SHOP/RJ88030.html"
-    },
-    {
-      "name": "フィジー代表 Fijian Bula Shirt  ネイビー【SS4834】",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4834NV-1.jpg?t=20260731133814",
-      "url": "https://www.rugbygoods.com/SHOP/SS4834NV.html"
-    },
-    {
-      "name": "フィジー代表 Fijian Bula Shirt  ホワイト【SS4834】",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4834WH-1.jpg?t=20260731133737",
-      "url": "https://www.rugbygoods.com/SHOP/SS4834WH.html"
-    },
-    {
-      "name": "フィジー代表 Fijian Bula Shirt  ブラック【SS4835】",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SS4835BK-1.jpg?t=20260731133642",
-      "url": "https://www.rugbygoods.com/SHOP/SS4835BK.html"
     }
   ]
 }
