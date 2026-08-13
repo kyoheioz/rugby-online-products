@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-08-13T07:10:38.848Z",
+  "updated_at": "2026-08-13T12:43:34.790Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "南アフリカ代表 スプリングボクス 2026 RGR STADIUM ジャージ",
+      "price": "¥33,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU4545-1.webp?t=20260813203307",
+      "url": "https://www.rugbygoods.com/SHOP/IU4545.html"
+    },
     {
       "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE キャップ",
       "price": "¥11,000",
@@ -236,12 +242,6 @@
       "price": "¥2,970",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/rug-jst051.jpg?t=20260724122849",
       "url": "https://www.rugbygoods.com/SHOP/JST-051.html"
-    },
-    {
-      "name": "ラグビー日本代表 ペンポーチ",
-      "price": "¥2,970",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/imgrc0096841750.webp?t=20260724121548",
-      "url": "https://www.rugbygoods.com/SHOP/JST-052.html"
     }
   ]
 }
