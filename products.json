@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-08-15T00:36:26.676Z",
+  "updated_at": "2026-08-15T06:19:22.533Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE ルーズフィットTシャツ",
+      "price": "¥15,400",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6541-1.jpg?t=20260815124529",
+      "url": "https://www.rugbygoods.com/SHOP/IU6541.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 WINDRUNNER ジャケット",
+      "price": "¥33,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/iu4549-330-m-su26-saru-phsfh001.jpg?t=20260815114524",
+      "url": "https://www.rugbygoods.com/SHOP/IU4549.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 Pre-Match ジャージ",
+      "price": "¥24,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/ib6855-010-1.jpg?t=20260815111543",
+      "url": "https://www.rugbygoods.com/SHOP/IB6854.html"
+    },
     {
       "name": "南アフリカ代表 スプリングボクス 2026 RGR STADIUM ジャージ",
       "price": "¥33,000",
@@ -224,24 +242,6 @@
       "price": "¥11,000",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2876-1-removebg-preview.png?t=20260724171706",
       "url": "https://www.rugbygoods.com/SHOP/KX2876.html"
-    },
-    {
-      "name": "オールブラックス 26/27 コットンTシャツ",
-      "price": "¥5,170",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TL644-1-removebg-preview.png?t=20260724170748",
-      "url": "https://www.rugbygoods.com/SHOP/KH2355.html"
-    },
-    {
-      "name": "オールブラックス 26/27 シングレット",
-      "price": "¥7,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF1542-1-removebg-preview.png?t=20260724164605",
-      "url": "https://www.rugbygoods.com/SHOP/KF1542.html"
-    },
-    {
-      "name": "ラグビー日本代表 ラウンドウォレット",
-      "price": "¥2,970",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/rug-jst051.jpg?t=20260724122849",
-      "url": "https://www.rugbygoods.com/SHOP/JST-051.html"
     }
   ]
 }
