@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-08-15T06:19:22.533Z",
+  "updated_at": "2026-08-15T12:16:35.571Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE スウェットフーディー",
+      "price": "¥27,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6534-1.jpg?t=20260815162312",
+      "url": "https://www.rugbygoods.com/SHOP/IU6534.html"
+    },
+    {
+      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE スウェットショーツ",
+      "price": "¥18,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6648-1.jpg?t=20260815145418",
+      "url": "https://www.rugbygoods.com/SHOP/IU6648.html"
+    },
     {
       "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE ルーズフィットTシャツ",
       "price": "¥15,400",
@@ -86,6 +98,12 @@
       "price": "¥5,500",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH551WH-1.jpeg?t=20260810115841",
       "url": "https://www.rugbygoods.com/SHOP/AH551WH.html"
+    },
+    {
+      "name": "オールブラックス 26/27 WAIST バッグ",
+      "price": "¥6,600",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX7654_1.png?t=20260808191413",
+      "url": "https://www.rugbygoods.com/SHOP/KX7654.html"
     },
     {
       "name": "オールブラックス 26/27 Festival バッグ",
@@ -224,24 +242,6 @@
       "price": "¥8,250",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF8907.png?t=20260731141155",
       "url": "https://www.rugbygoods.com/SHOP/KF8907.html"
-    },
-    {
-      "name": "イングランド代表 26/27 REVERSIBLE バケットハット",
-      "price": "¥12,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/PSU00404-1.jpg?t=20260730201745",
-      "url": "https://www.rugbygoods.com/SHOP/PSU00404.html"
-    },
-    {
-      "name": "フランス代表 26/27 レプリカホームジャージ",
-      "price": "¥13,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF1712-1-removebg-preview.png?t=20260724174424",
-      "url": "https://www.rugbygoods.com/SHOP/KF1712.html"
-    },
-    {
-      "name": "オールブラックス 26/27 トレーニングジャージ",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2876-1-removebg-preview.png?t=20260724171706",
-      "url": "https://www.rugbygoods.com/SHOP/KX2876.html"
     }
   ]
 }
