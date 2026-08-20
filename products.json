@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-08-20T00:36:26.213Z",
+  "updated_at": "2026-08-20T06:25:55.254Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ネックストラップ",
+      "price": "¥1,650",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27LAN.png?t=20260820124043",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027LAN.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 トロフィー ボトルオープナー",
+      "price": "¥1,650",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27TROPHYBOTOP.png?t=20260820123256",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027TROPHYBOTOP.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ロゴマグネット",
+      "price": "¥1,650",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27LOGOMAG.png?t=20260820122558",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027LOGOMAG.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 LAPEL ピンバッジ",
+      "price": "¥1,540",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27FNLPIN.png?t=20260820121813",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027FNLPIN.html"
+    },
+    {
+      "name": "RUGBY WORLDCUP AUSTRALIA 2027 LAPEL キーリング",
+      "price": "¥1,650",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27FNLKEY.png?t=20260820121155",
+      "url": "https://www.rugbygoods.com/SHOP/RWC2027FNLKEY.html"
+    },
     {
       "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE スウェットフーディー",
       "price": "¥27,500",
@@ -212,36 +242,6 @@
       "price": "¥16,500",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HIS26MBGHO.png?t=20260802111458",
       "url": "https://www.rugbygoods.com/SHOP/CSI-HIS26MBHO.html"
-    },
-    {
-      "name": "スコットランド代表 25/26 バケットハット",
-      "price": "¥9,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/2271343721_max.png?t=20260801102001",
-      "url": "https://www.rugbygoods.com/SHOP/40007196.html"
-    },
-    {
-      "name": "ラグビー日本代表 Ren-G ランドリーバッグ",
-      "price": "¥2,750",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/rug-rj87700_1.jpg?t=20260731170115",
-      "url": "https://www.rugbygoods.com/SHOP/RJ87700.html"
-    },
-    {
-      "name": "ラグビー日本代表 Ren-G 冷感生地フード付きタオル",
-      "price": "¥4,400",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/rug-rj87699.jpg?t=20260731165000",
-      "url": "https://www.rugbygoods.com/SHOP/RJ87699.html"
-    },
-    {
-      "name": "オールブラックス 26/27 Heritage ポロシャツ",
-      "price": "¥13,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX4776_1.jpg?t=20260731141729",
-      "url": "https://www.rugbygoods.com/SHOP/KX4776.html"
-    },
-    {
-      "name": "フランス代表 26/27 トラベル ポロシャツ",
-      "price": "¥8,250",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF8907.png?t=20260731141155",
-      "url": "https://www.rugbygoods.com/SHOP/KF8907.html"
     }
   ]
 }
