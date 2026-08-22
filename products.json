@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:17:17.664Z",
+  "updated_at": "2026-08-22T18:13:56.482Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
@@ -8,6 +8,24 @@
       "price": "¥11,000",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6526-1.jpg?t=20260822125818",
       "url": "https://www.rugbygoods.com/SHOP/IU6526.html"
+    },
+    {
+      "name": "フィジー代表 フルジップ フリースフーディー ROVATU",
+      "price": "¥12,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_20260822_260822_7.jpg?t=20260822195918",
+      "url": "https://www.rugbygoods.com/SHOP/WJ427.html"
+    },
+    {
+      "name": "フィジー代表 フリースフーディー LOMA",
+      "price": "¥12,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_20260822_260822_987.jpg?t=20260822200713",
+      "url": "https://www.rugbygoods.com/SHOP/WJ428.html"
+    },
+    {
+      "name": "フィジー代表 フリースジャケット LAI",
+      "price": "¥12,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_20260822_260822_1.jpg?t=20260822195244",
+      "url": "https://www.rugbygoods.com/SHOP/WJ429.html"
     },
     {
       "name": "オールブラックス 26/27 ダッフルバッグ",
@@ -224,24 +242,6 @@
       "price": "¥7,150",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6272_1.jpg?t=20260806161157",
       "url": "https://www.rugbygoods.com/SHOP/KW6272.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス 26/27 PULLOVER フーディー",
-      "price": "¥25,300",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU4971-1-1.png?t=20260804185147",
-      "url": "https://www.rugbygoods.com/SHOP/IU4971.html"
-    },
-    {
-      "name": "ハリケーンズ 2026 30周年 SUPPORTER フーディー",
-      "price": "¥16,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HUS26MBGHO-1.jpg?t=20260801115614",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HUS26MBHO.html"
-    },
-    {
-      "name": "チーフス 2026 30周年 SUPPORTER フーディー",
-      "price": "¥16,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-CHS26MBGHO.png?t=20260802111345",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CHS26MBHO.html"
     }
   ]
 }
