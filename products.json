@@ -1,8 +1,50 @@
 {
-  "updated_at": "2026-08-26T06:28:25.203Z",
+  "updated_at": "2026-08-26T12:27:59.482Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "New Era 9Seventy オールブラックス キャップ カデット ブルー",
+      "price": "¥9,350",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/15132756-1.webp?t=20260826173553",
+      "url": "https://www.rugbygoods.com/SHOP/15132756.html"
+    },
+    {
+      "name": "New Era 9Twenty オールブラックス キャップ ラベンダーパープル",
+      "price": "¥7,920",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948947-1-removebg-preview.png?t=20260826171533",
+      "url": "https://www.rugbygoods.com/SHOP/70948947.html"
+    },
+    {
+      "name": "New Era 9Twenty オールブラックス キャップ スモーキーピンク",
+      "price": "¥7,920",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948957-1-removebg-preview.png?t=20260826170459",
+      "url": "https://www.rugbygoods.com/SHOP/70948957.html"
+    },
+    {
+      "name": "New Era 9Twenty オールブラックス キャップ ブルーティント",
+      "price": "¥7,920",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948948-1-removebg-preview.png?t=20260826165740",
+      "url": "https://www.rugbygoods.com/SHOP/70948948.html"
+    },
+    {
+      "name": "New Era 9Twenty オールブラックス キャップ デニム",
+      "price": "¥9,350",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/15132772-1-removebg-preview.png?t=20260826164604",
+      "url": "https://www.rugbygoods.com/SHOP/15132772.html"
+    },
+    {
+      "name": "New Era 9Twenty オールブラックス キャップ ストーン",
+      "price": "¥7,920",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948953-1-removebg-preview.png?t=20260826163501",
+      "url": "https://www.rugbygoods.com/SHOP/70948953.html"
+    },
+    {
+      "name": "New Era 9Fifty オールブラックス スナップバックキャップ グレー",
+      "price": "¥9,350",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949045-1-removebg-preview.png?t=20260826162347",
+      "url": "https://www.rugbygoods.com/SHOP/70949045.html"
+    },
     {
       "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE ビーニー",
       "price": "¥11,000",
@@ -178,12 +220,6 @@
       "url": "https://www.rugbygoods.com/SHOP/KY6268.html"
     },
     {
-      "name": "New Era 9Fifty オールブラックス メタルシルバー",
-      "price": "¥9,350",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/7094903-3_17d48dc9-8998-4f07-9339-aa6d4c9f6831.webp?t=20260807150602",
-      "url": "https://www.rugbygoods.com/SHOP/70949035.html"
-    },
-    {
       "name": "オールブラックス 2026 RGR ホームジャージ",
       "price": "¥19,800",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2020_1.jpg?t=20260806204655",
@@ -206,42 +242,6 @@
       "price": "¥19,800",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2879_1.jpg?t=20260806180435",
       "url": "https://www.rugbygoods.com/SHOP/KX2879.html"
-    },
-    {
-      "name": "オールブラックス 2026 RGR シングレット",
-      "price": "¥9,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2878_1.png?t=20260806184859",
-      "url": "https://www.rugbygoods.com/SHOP/KX2878.html"
-    },
-    {
-      "name": "オールブラックス 2026 RGR GYM ショーツ マローン",
-      "price": "¥9,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2877.png?t=20260806184726",
-      "url": "https://www.rugbygoods.com/SHOP/KX2877.html"
-    },
-    {
-      "name": "オールブラックス 2026 RGR バックパック",
-      "price": "¥12,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6273_4.jpg?t=20260806165600",
-      "url": "https://www.rugbygoods.com/SHOP/KW6273.html"
-    },
-    {
-      "name": "オールブラックス 2026 RGR バケットハット",
-      "price": "¥7,150",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6271_1.jpg?t=20260806163522",
-      "url": "https://www.rugbygoods.com/SHOP/KW6271.html"
-    },
-    {
-      "name": "オールブラックス 2026 RGR BASEBALL キャップ",
-      "price": "¥7,150",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6268_1.jpg?t=20260806162525",
-      "url": "https://www.rugbygoods.com/SHOP/KW6268.html"
-    },
-    {
-      "name": "オールブラックス 2026 RGR デニム キャップ",
-      "price": "¥7,150",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KW6272_1.jpg?t=20260806161157",
-      "url": "https://www.rugbygoods.com/SHOP/KW6272.html"
     }
   ]
 }
