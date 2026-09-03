@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-09-03T01:58:17.437Z",
+  "updated_at": "2026-09-03T10:20:05.238Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "フランス代表 120周年 クランチ アンセムジャケット",
+      "price": "¥35,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JY8302-1.jpg?t=20260903161155",
+      "url": "https://www.rugbygoods.com/SHOP/JY8302.html"
+    },
+    {
+      "name": "フランス代表 120周年 クランチ ホームショーツ",
+      "price": "¥17,600",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KD2178-1.jpg?t=20260903155505",
+      "url": "https://www.rugbygoods.com/SHOP/KD2178.html"
+    },
     {
       "name": "オーストラリア代表 ワラビーズ 26/27 Performance  Long Sleeve Tシャツ ブルー",
       "price": "¥20,900",
@@ -68,12 +80,6 @@
       "price": "¥12,100",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_20260822_260822_1.jpg?t=20260822195244",
       "url": "https://www.rugbygoods.com/SHOP/WJ429.html"
-    },
-    {
-      "name": "オールブラックス 26/27 ダッフルバッグ",
-      "price": "¥15,400",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__127098913_0.jpg?t=20260821124344",
-      "url": "https://www.rugbygoods.com/SHOP/KX7652.html"
     },
     {
       "name": "RUGBY WORLDCUP AUSTRALIA 2027 ネックストラップ",
@@ -236,12 +242,6 @@
       "price": "¥11,000",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX4785_1.jpg?t=20260806202341",
       "url": "https://www.rugbygoods.com/SHOP/KX4785.html"
-    },
-    {
-      "name": "オールブラックス 2026 RGRトレーニングジャージ",
-      "price": "¥19,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX2879_1.jpg?t=20260806180435",
-      "url": "https://www.rugbygoods.com/SHOP/KX2879.html"
     }
   ]
 }
