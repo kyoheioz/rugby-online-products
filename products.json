@@ -1,8 +1,110 @@
 {
-  "updated_at": "2026-09-10T01:59:07.771Z",
+  "updated_at": "2026-09-10T10:13:14.909Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "ブルーズ 2026 子供用 バスケットボールジャージ",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BUR26SMBSI2-1.jpg?t=20251127162855",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BUR26SYBSI2.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 子供用 バスケットボールジャージ",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HUR26SMBSI2-1.png?t=20251129155241",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HUR26SYBSI2.html"
+    },
+    {
+      "name": "ハイランダーズ 2026 子供用 バスケットボールジャージ",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HIR26SMBSI2-1.png?t=20251127144438",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HIR26SYBSI2.html"
+    },
+    {
+      "name": "クルセーダース 2026 子供用 バスケットボールジャージ",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-CRR26SMBSI2-1.png?t=20251128181125",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CRR26SYBSI2.html"
+    },
+    {
+      "name": "ブルーズ 2026 子供用 トレーニングTシャツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BU26MT1-1.png?t=20251127165247",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26YT1.html"
+    },
+    {
+      "name": "クルセーダース 2026 子供用 トレーニングTシャツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-CR26MT2-1.png?t=20251128175117",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26YT1.html"
+    },
+    {
+      "name": "ブルーズ 2026 子供用 トレーニングシングレット",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BU26MSI1-1.png?t=20251127170704",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26YSI1.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 子供用 トレーニングシングレット",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HU26MSI1-1.jpg?t=20251129153456",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26YSI1.html"
+    },
+    {
+      "name": "ハイランダーズ 2026 子供用 トレーニングシングレット",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HI26MSI1-1.png?t=20251127160714",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26YSI1.html"
+    },
+    {
+      "name": "ブルーズ 2026 子供用 ホームショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-bu26mps1.jpg?t=20251203170835",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26YPS1.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 子供用 ホームショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HU26MPS1-1.png?t=20251129152319",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26YPS1.html"
+    },
+    {
+      "name": "ハイランダーズ 2026 子供用 ホームショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HI26MPS1-1.png?t=20251127161307",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26YPS1.html"
+    },
+    {
+      "name": "チーフス 2026 子供用 PERFORMANCE GYMショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-CH26MSH1-1.jpg?t=20251201121322",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CH26YSH1.html"
+    },
+    {
+      "name": "ブルーズ 2026 子供用 PERFORMANCE GYMショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BU26MSH1-1.png?t=20251127164724",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26YSH1.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 子供用 PERFORMANCE GYMショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HU26MSH1-1.jpg?t=20251129152726",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26YSH1.html"
+    },
+    {
+      "name": "ハイランダーズ 2026 子供用 PERFORMANCE GYMショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HI26MSH1-1.png?t=20251127152626",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26YSH1.html"
+    },
+    {
+      "name": "クルセーダース 2026 子供用 PERFORMANCE GYMショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-CR26MSH1-1.png?t=20251128175614",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26YSH1.html"
+    },
     {
       "name": "ハイランダーズ 2026 1/4 ZIP FLEECEジャケット",
       "price": "¥16,500",
@@ -64,184 +166,82 @@
       "url": "https://www.rugbygoods.com/SHOP/CSI-CR26MWWJ2.html"
     },
     {
+      "name": "ブルーズ 2026 ロング トラックパンツ",
+      "price": "¥7,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BU26MTP1-1.jpg?t=20260908155126",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26MTP1.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 ロング トラックパンツ",
+      "price": "¥7,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hu26mtp1-2.jpg?t=20260908155411",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26MTP1.html"
+    },
+    {
+      "name": "チーフス 2026 ロング トラックパンツ",
+      "price": "¥7,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-ch26mtp1-1.jpg?t=20260908155202",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CH26MTP1.html"
+    },
+    {
+      "name": "ハイランダーズ 2026 ロング トラックパンツ",
+      "price": "¥7,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mtp1-1.jpg?t=20260908155325",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26MTP1.html"
+    },
+    {
+      "name": "クルセーダース 2026 ロング トラックパンツ",
+      "price": "¥7,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-cr26mtp1-2.jpg?t=20260908155244",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26MTP1.html"
+    },
+    {
+      "name": "ブルーズ 2026 DRILLショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-bur26smcsh-1.jpg?t=20260908150516",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BUR26SMCSH.html"
+    },
+    {
+      "name": "チーフス 2026 DRILLショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-chr26smcsh-2.jpg?t=20260908150603",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CHR26SMCSH.html"
+    },
+    {
+      "name": "ハリケーンズ 2026 DRILLショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HUR26SMCSH-1.webp?t=20260908150735",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HUR26SMCSH.html"
+    },
+    {
+      "name": "クルセーダース 2026 DRILLショーツ",
+      "price": "¥5,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-crr26smcsh-2.jpg?t=20260908150651",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CRR26SMCSH.html"
+    },
+    {
       "name": "オールブラックス 子供用 バケットハット",
       "price": "¥4,180",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/image-22.png?t=20260908145750",
       "url": "https://www.rugbygoods.com/SHOP/KBK0205AB.html"
     },
     {
-      "name": "フランス代表 120周年 クランチ アンセムジャケット",
-      "price": "¥35,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JY8302-1.jpg?t=20260903161155",
-      "url": "https://www.rugbygoods.com/SHOP/JY8302.html"
+      "name": "ハリケーンズ 2026 ブーツバッグ",
+      "price": "¥4,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26bb.jpg?t=20260904114455",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26BB.html"
     },
     {
-      "name": "フランス代表 120周年 クランチ ホームショーツ",
-      "price": "¥17,600",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KD2178-1.jpg?t=20260903155505",
-      "url": "https://www.rugbygoods.com/SHOP/KD2178.html"
+      "name": "ハイランダーズ 2026 ブーツバッグ",
+      "price": "¥4,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26bb.jpg?t=20260904114455",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26BB.html"
     },
     {
-      "name": "オーストラリア代表 ワラビーズ 26/27 Performance  Long Sleeve Tシャツ ブルー",
-      "price": "¥20,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TM14794-030-1.jpg?t=20260902160937",
-      "url": "https://www.rugbygoods.com/SHOP/TM14794BL.html"
-    },
-    {
-      "name": "New Era 9Seventy オールブラックス キャップ カデットブルー",
-      "price": "¥9,350",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/15132756-1.webp?t=20260826173553",
-      "url": "https://www.rugbygoods.com/SHOP/15132756.html"
-    },
-    {
-      "name": "New Era 9Twenty オールブラックス キャップ ラベンダーパープル",
-      "price": "¥7,920",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948947-1-removebg-preview.png?t=20260826171533",
-      "url": "https://www.rugbygoods.com/SHOP/70948947.html"
-    },
-    {
-      "name": "New Era 9Twenty オールブラックス キャップ スモーキーピンク",
-      "price": "¥7,920",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948957-1-removebg-preview.png?t=20260826170459",
-      "url": "https://www.rugbygoods.com/SHOP/70948957.html"
-    },
-    {
-      "name": "New Era 9Twenty オールブラックス キャップ デニム",
-      "price": "¥9,350",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/15132772-1-removebg-preview.png?t=20260826164604",
-      "url": "https://www.rugbygoods.com/SHOP/15132772.html"
-    },
-    {
-      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE ビーニー",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6526-1.jpg?t=20260822125818",
-      "url": "https://www.rugbygoods.com/SHOP/IU6526.html"
-    },
-    {
-      "name": "フィジー代表 フルジップ フリースフーディー ROVATU",
-      "price": "¥12,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_20260822_260822_7.jpg?t=20260822195918",
-      "url": "https://www.rugbygoods.com/SHOP/WJ427.html"
-    },
-    {
-      "name": "フィジー代表 フリースフーディー LOMA",
-      "price": "¥12,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_20260822_260822_987.jpg?t=20260822200713",
-      "url": "https://www.rugbygoods.com/SHOP/WJ428.html"
-    },
-    {
-      "name": "フィジー代表 フリースジャケット LAI",
-      "price": "¥12,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_20260822_260822_1.jpg?t=20260822195244",
-      "url": "https://www.rugbygoods.com/SHOP/WJ429.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ネックストラップ",
-      "price": "¥1,650",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27LAN.png?t=20260820124043",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027LAN.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 トロフィー ボトルオープナー マグネット",
-      "price": "¥1,650",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27TROPHYBOTOP.png?t=20260820123256",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027TROPHYBOTOP.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ロゴマグネット",
-      "price": "¥1,650",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27LOGOMAG.png?t=20260820122558",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027LOGOMAG.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 キャラクター ピンバッジ",
-      "price": "¥1,540",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27FNLPIN.png?t=20260820121813",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027FNLPIN.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 キャラクター キーリング",
-      "price": "¥1,650",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC27FNLKEY.png?t=20260820121155",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027FNLKEY.html"
-    },
-    {
-      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE スウェットフーディー",
-      "price": "¥27,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6534-1.jpg?t=20260815162312",
-      "url": "https://www.rugbygoods.com/SHOP/IU6534.html"
-    },
-    {
-      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE スウェットショーツ",
-      "price": "¥18,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6648-1.jpg?t=20260815145418",
-      "url": "https://www.rugbygoods.com/SHOP/IU6648.html"
-    },
-    {
-      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE ルーズフィットTシャツ",
-      "price": "¥15,400",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6541-1.jpg?t=20260815124529",
-      "url": "https://www.rugbygoods.com/SHOP/IU6541.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス 26/27 WINDRUNNER ジャケット",
-      "price": "¥33,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/iu4549-330-m-su26-saru-phsfh001.jpg?t=20260815114524",
-      "url": "https://www.rugbygoods.com/SHOP/IU4549.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス 26/27 Pre-Match ジャージ",
-      "price": "¥24,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/ib6855-010-1.jpg?t=20260815111543",
-      "url": "https://www.rugbygoods.com/SHOP/IB6854.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス 2026 RGR STADIUM ジャージ",
-      "price": "¥33,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU4545-1.webp?t=20260813203307",
-      "url": "https://www.rugbygoods.com/SHOP/IU4545.html"
-    },
-    {
-      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE キャップ",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6525-1.jpg?t=20260812183223",
-      "url": "https://www.rugbygoods.com/SHOP/IU6525.html"
-    },
-    {
-      "name": "フィジアンドゥルア ドローコード バケットハット ブルー",
-      "price": "¥5,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH554BL-3.jpg?t=20260812160933",
-      "url": "https://www.rugbygoods.com/SHOP/AH554BL.html"
-    },
-    {
-      "name": "フィジアンドゥルア ドローコード バケットハット ブラック",
-      "price": "¥5,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH554BK-4.jpg?t=20260812161430",
-      "url": "https://www.rugbygoods.com/SHOP/AH554BK.html"
-    },
-    {
-      "name": "フィジアンドゥルア バケットハット ネイビー",
-      "price": "¥5,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH555NV-1.jpg?t=20260812155928",
-      "url": "https://www.rugbygoods.com/SHOP/AH555NV.html"
-    },
-    {
-      "name": "フィジアンドゥルア バケットハット ブラック",
-      "price": "¥5,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH555BK-1.jpg?t=20260812155835",
-      "url": "https://www.rugbygoods.com/SHOP/AH555BK.html"
-    },
-    {
-      "name": "フィジアンドゥルア RUGBY キャップ グレー",
-      "price": "¥5,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH545-1.jpeg?t=20260810162432",
-      "url": "https://www.rugbygoods.com/SHOP/AH545.html"
-    },
-    {
-      "name": "フィジー RUGBY キャップ KARAWA ブルー",
-      "price": "¥5,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/AH542BL-1.png?t=20260810161539",
-      "url": "https://www.rugbygoods.com/SHOP/AH542BL.html"
+      "name": "クルセーダース 2026 ブーツバッグ",
+      "price": "¥4,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-cr26bb.jpg?t=20260904114416",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26BB.html"
     }
   ]
 }
