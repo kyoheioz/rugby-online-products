@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-09-13T01:56:48.060Z",
+  "updated_at": "2026-09-13T10:46:02.679Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "ショートスリーブ チームジャパンティー(ユニセックス)",
+      "price": "¥6,600",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RLU32664S-1-removebg-preview.png?t=20260913161616",
+      "url": "https://www.rugbygoods.com/SHOP/RLU32664S.html"
+    },
+    {
+      "name": "Griffin Team トライバルストックショーツ ホワイト",
+      "price": "¥5,940",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/GRSH0002WH-1.png?t=20260913150413",
+      "url": "https://www.rugbygoods.com/SHOP/GRSH0002WH.html"
+    },
+    {
+      "name": "Griffin Team トライバルストックショーツ ピンク",
+      "price": "¥5,940",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/GRSH0002PK.png?t=20260913145924",
+      "url": "https://www.rugbygoods.com/SHOP/GRSH0002PK.html"
+    },
+    {
+      "name": "Griffin Team トライバルストックショーツ レッド",
+      "price": "¥5,940",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/GRSH0002RD-1.png?t=20260913144907",
+      "url": "https://www.rugbygoods.com/SHOP/GRSH0002RD.html"
+    },
     {
       "name": "ブルーズ 2026 子供用 バスケットボールジャージ",
       "price": "¥8,980",
@@ -218,30 +242,6 @@
       "price": "¥5,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-crr26smcsh-2.jpg?t=20260908150651",
       "url": "https://www.rugbygoods.com/SHOP/CSI-CRR26SMCSH.html"
-    },
-    {
-      "name": "オールブラックス 子供用 バケットハット",
-      "price": "¥4,180",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/image-22.png?t=20260908145750",
-      "url": "https://www.rugbygoods.com/SHOP/KBK0205AB.html"
-    },
-    {
-      "name": "ハリケーンズ 2026 ブーツバッグ",
-      "price": "¥4,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26bb.jpg?t=20260904114455",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26BB.html"
-    },
-    {
-      "name": "ハイランダーズ 2026 ブーツバッグ",
-      "price": "¥4,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26bb.jpg?t=20260904114455",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26BB.html"
-    },
-    {
-      "name": "クルセーダース 2026 ブーツバッグ",
-      "price": "¥4,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-cr26bb.jpg?t=20260904114416",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26BB.html"
     }
   ]
 }
