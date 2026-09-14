@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T02:14:33.677Z",
+  "updated_at": "2026-09-14T11:11:24.175Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
@@ -202,12 +202,6 @@
       "url": "https://www.rugbygoods.com/SHOP/CSI-HU26MTP1.html"
     },
     {
-      "name": "チーフス 2026 ロング トラックパンツ",
-      "price": "¥7,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-ch26mtp1-1.jpg?t=20260908155202",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CH26MTP1.html"
-    },
-    {
       "name": "ハイランダーズ 2026 ロング トラックパンツ",
       "price": "¥7,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mtp1-1.jpg?t=20260908155325",
@@ -242,6 +236,12 @@
       "price": "¥5,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-crr26smcsh-2.jpg?t=20260908150651",
       "url": "https://www.rugbygoods.com/SHOP/CSI-CRR26SMCSH.html"
+    },
+    {
+      "name": "オールブラックス 子供用 バケットハット",
+      "price": "¥4,180",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/image-22.png?t=20260908145750",
+      "url": "https://www.rugbygoods.com/SHOP/KBK0205AB.html"
     }
   ]
 }
