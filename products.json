@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-09-16T02:14:01.820Z",
+  "updated_at": "2026-09-16T10:27:22.289Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "NZ WARRIORS 2026 MEDIAキャップ",
+      "price": "¥9,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWHTM26001-1.jpg?t=20260915160509",
+      "url": "https://www.rugbygoods.com/SHOP/NWHTM26001.html"
+    },
+    {
+      "name": "NZ WARRIORS 2026 バスケットボールシングレット インディジナス",
+      "price": "¥16,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSIM26004-1.jpg?t=20260915160711",
+      "url": "https://www.rugbygoods.com/SHOP/NWSIM26004.html"
+    },
+    {
+      "name": "NZ WARRIORS 2026 バスケットボールシングレット",
+      "price": "¥16,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSIM26003-1.jpg?t=20260915160559",
+      "url": "https://www.rugbygoods.com/SHOP/NWSIM26003.html"
+    },
+    {
+      "name": "NZ WARRIORS 2026 トレーニングシングレット",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/MPSHM26011-1.jpg?t=20260915160317",
+      "url": "https://www.rugbygoods.com/SHOP/MPSHM26011.html"
+    },
+    {
+      "name": "NZ WARRIORS 2026 GYMショーツ インディジナス",
+      "price": "¥12,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSHM26014-1.jpg?t=20260915160015",
+      "url": "https://www.rugbygoods.com/SHOP/NWSHM26014.html"
+    },
+    {
+      "name": "NZ WARRIORS 2026 GYMショーツ",
+      "price": "¥12,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSHM26011-1.jpg?t=20260915155934",
+      "url": "https://www.rugbygoods.com/SHOP/NWSHM26011.html"
+    },
     {
       "name": "RUGBY WORLDCUP AUSTRALIA 2027レザーキーリング",
       "price": "¥2,310",
@@ -206,42 +242,6 @@
       "price": "¥18,700",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mwwj2-2.jpg?t=20260908145056",
       "url": "https://www.rugbygoods.com/SHOP/CSI-HI26MWWJ2.html"
-    },
-    {
-      "name": "クルセーダース 2026 PULLOVER SHELL ジャケット",
-      "price": "¥18,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-cr26mwwj2-2.jpg?t=20260908144949",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26MWWJ2.html"
-    },
-    {
-      "name": "ブルーズ 2026 ロング トラックパンツ",
-      "price": "¥7,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BU26MTP1-1.jpg?t=20260908155126",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26MTP1.html"
-    },
-    {
-      "name": "ハリケーンズ 2026 ロング トラックパンツ",
-      "price": "¥7,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hu26mtp1-2.jpg?t=20260908155411",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26MTP1.html"
-    },
-    {
-      "name": "ハイランダーズ 2026 ロング トラックパンツ",
-      "price": "¥7,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mtp1-1.jpg?t=20260908155325",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26MTP1.html"
-    },
-    {
-      "name": "クルセーダース 2026 ロング トラックパンツ",
-      "price": "¥7,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-cr26mtp1-2.jpg?t=20260908155244",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26MTP1.html"
-    },
-    {
-      "name": "ブルーズ 2026 DRILLショーツ",
-      "price": "¥5,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-bur26smcsh-1.jpg?t=20260908150516",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-BUR26SMCSH.html"
     }
   ]
 }
