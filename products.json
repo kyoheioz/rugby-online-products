@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T02:17:54.059Z",
+  "updated_at": "2026-09-17T10:37:17.276Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
@@ -38,6 +38,12 @@
       "price": "¥12,100",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSHM26011-1.jpg?t=20260915155934",
       "url": "https://www.rugbygoods.com/SHOP/NWSHM26011.html"
+    },
+    {
+      "name": "モアナパシフィカ 2026 BUTTON UP ポロシャツ",
+      "price": "¥9,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/MPPOM26002-5.jpg?t=20260916092921",
+      "url": "https://www.rugbygoods.com/SHOP/MPPOM26002.html"
     },
     {
       "name": "RUGBY WORLDCUP AUSTRALIA 2027レザーキーリング",
@@ -236,12 +242,6 @@
       "price": "¥18,700",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hu26mwwj2-1.webp?t=20260908145124",
       "url": "https://www.rugbygoods.com/SHOP/CSI-HU26MWWJ2.html"
-    },
-    {
-      "name": "ハイランダーズ 2026 PULLOVER SHELL ジャケット",
-      "price": "¥18,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mwwj2-2.jpg?t=20260908145056",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26MWWJ2.html"
     }
   ]
 }
