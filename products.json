@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:22:02.541Z",
+  "updated_at": "2026-09-22T02:18:45.796Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
@@ -26,12 +26,6 @@
       "price": "¥8,800",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948943-1-removebg-preview.png?t=20260918111434",
       "url": "https://www.rugbygoods.com/SHOP/70948943.html"
-    },
-    {
-      "name": "NZ WARRIORS 2026 MEDIAキャップ",
-      "price": "¥9,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWHTM26001-1.jpg?t=20260915160509",
-      "url": "https://www.rugbygoods.com/SHOP/NWHTM26001.html"
     },
     {
       "name": "NZ WARRIORS 2026 バスケットボールシングレット インディジナス",
@@ -62,12 +56,6 @@
       "price": "¥12,100",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSHM26011-1.jpg?t=20260915155934",
       "url": "https://www.rugbygoods.com/SHOP/NWSHM26011.html"
-    },
-    {
-      "name": "モアナパシフィカ 2026 BUTTON UP ポロシャツ",
-      "price": "¥9,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/MPPOM26002-5.jpg?t=20260916092921",
-      "url": "https://www.rugbygoods.com/SHOP/MPPOM26002.html"
     },
     {
       "name": "RUGBY WORLDCUP AUSTRALIA 2027レザーキーリング",
@@ -140,12 +128,6 @@
       "price": "¥8,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-CRR26SMBSI2-1.png?t=20251128181125",
       "url": "https://www.rugbygoods.com/SHOP/CSI-CRR26SYBSI2.html"
-    },
-    {
-      "name": "ブルーズ 2026 子供用 トレーニングTシャツ",
-      "price": "¥5,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BU26MT1-1.png?t=20251127165247",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26YT1.html"
     },
     {
       "name": "クルセーダース 2026 子供用 トレーニングTシャツ",
@@ -242,6 +224,24 @@
       "price": "¥19,900",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mjk3-1.jpg?t=20260908160247",
       "url": "https://www.rugbygoods.com/SHOP/CSI-HI26MJK3.html"
+    },
+    {
+      "name": "クルセーダース 2026 PUFFER ジャケット",
+      "price": "¥19,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-cr26mjk3-1.jpg?t=20260908155953",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26MJK3.html"
+    },
+    {
+      "name": "ブルーズ 2026 PULLOVER SHELL ジャケット",
+      "price": "¥18,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-bu26mwwj2-1.jpg?t=20260908143819",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26MWWJ2.html"
+    },
+    {
+      "name": "チーフス 2026 PULLOVER SHELL ジャケット",
+      "price": "¥18,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-ch26mwwj2-1.jpg?t=20260908144816",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CH26MWWJ2.html"
     }
   ]
 }
