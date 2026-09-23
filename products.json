@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-09-23T02:18:49.737Z",
+  "updated_at": "2026-09-23T10:26:16.071Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "NRL ナイツ 2026 トレーニングシングレット ネイビー",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NK26MSI2_1.jpg?t=20260917165432",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-NK26MSI2.html"
+    },
+    {
+      "name": "NRL ナイツ 2026 トレーニングシングレット ブルー",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NK26MSI1_1.jpg?t=20260917165342",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-NK26MSI1.html"
+    },
+    {
+      "name": "NRL ドルフィンズ 2026 トレーニングシングレット",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/DN26MSI1_1.jpg?t=20260917165246",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-DN26MSI1.html"
+    },
+    {
+      "name": "NRL シャークス 2026 トレーニングシングレット ブラック",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CS26MSI2_1.jpg?t=20260917165205",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CS26MSI2.html"
+    },
+    {
+      "name": "NRL シャークス 2026 トレーニングシングレット スカイ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CS26MSI1_1.jpg?t=20260917165105",
+      "url": "https://www.rugbygoods.com/SHOP/CSI-CS26MSI1.html"
+    },
     {
       "name": "New Era 9Forty オールブラックス キャップ メタルシルバー",
       "price": "¥8,800",
@@ -212,36 +242,6 @@
       "price": "¥19,900",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-bu26mjk3-1.jpg?t=20260908155901",
       "url": "https://www.rugbygoods.com/SHOP/CSI-BU26MJK3.html"
-    },
-    {
-      "name": "ハリケーンズ 2026 PUFFER ジャケット",
-      "price": "¥19,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hu26mjk3-1.webp?t=20260908160333",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26MJK3.html"
-    },
-    {
-      "name": "ハイランダーズ 2026 PUFFER ジャケット",
-      "price": "¥19,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mjk3-1.jpg?t=20260908160247",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26MJK3.html"
-    },
-    {
-      "name": "クルセーダース 2026 PUFFER ジャケット",
-      "price": "¥19,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-cr26mjk3-1.jpg?t=20260908155953",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CR26MJK3.html"
-    },
-    {
-      "name": "ブルーズ 2026 PULLOVER SHELL ジャケット",
-      "price": "¥18,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-bu26mwwj2-1.jpg?t=20260908143819",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26MWWJ2.html"
-    },
-    {
-      "name": "チーフス 2026 PULLOVER SHELL ジャケット",
-      "price": "¥18,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-ch26mwwj2-1.jpg?t=20260908144816",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CH26MWWJ2.html"
     }
   ]
 }
