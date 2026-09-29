@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-09-28T22:43:54.550Z",
+  "updated_at": "2026-09-29T03:11:02.005Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "レッズ 2026 トレーニングTシャツ レッド",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009976_467_1.jpg?t=20260929115407",
+      "url": "https://www.rugbygoods.com/SHOP/QA009976M.html"
+    },
+    {
+      "name": "レッズ 2026 トレーニングTシャツ ネイビー",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009976_769_1.jpg?t=20260929115148",
+      "url": "https://www.rugbygoods.com/SHOP/QA009976N.html"
+    },
+    {
+      "name": "レッズ 2026 Pasifika GYMショーツ",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009975_9AA_1.jpg?t=20260929114108",
+      "url": "https://www.rugbygoods.com/SHOP/QA009975.html"
+    },
+    {
+      "name": "New Era 9Twenty オールブラックス キャップ カモ",
+      "price": "¥9,350",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/15132768_1-removebg-preview.png?t=20260924130638",
+      "url": "https://www.rugbygoods.com/SHOP/15132768.html"
+    },
     {
       "name": "NRL ナイツ 2026 トレーニングシングレット ネイビー",
       "price": "¥11,000",
@@ -44,12 +68,6 @@
       "price": "¥8,800",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948835_940AF-ALLBLK-BLK-WHI_3QL-removebg-preview.png?t=20260918130226",
       "url": "https://www.rugbygoods.com/SHOP/70948835.html"
-    },
-    {
-      "name": "New Era 9Forty オールブラックス キャップ グレー",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948881_940AF-ALLBLK-STRM-GRY-BLK-2TN_3QL-removebg-preview.png?t=20260918125244",
-      "url": "https://www.rugbygoods.com/SHOP/70948881.html"
     },
     {
       "name": "New Era 9Forty オールブラックス キャップ ストーン",
@@ -224,24 +242,6 @@
       "price": "¥6,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-CR26MSH1-1.png?t=20251128175614",
       "url": "https://www.rugbygoods.com/SHOP/CSI-CR26YSH1.html"
-    },
-    {
-      "name": "ハイランダーズ 2026 1/4 ZIP FLEECEジャケット",
-      "price": "¥16,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hi26mho4-1.jpg?t=20260908155632",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HI26MHO4.html"
-    },
-    {
-      "name": "ブルーズ 2026 PUFFER ジャケット",
-      "price": "¥19,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-bu26mjk3-1.jpg?t=20260908155901",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-BU26MJK3.html"
-    },
-    {
-      "name": "ハリケーンズ 2026 PUFFER ジャケット",
-      "price": "¥19,900",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/csi-hu26mjk3-1.webp?t=20260908160333",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HU26MJK3.html"
     }
   ]
 }
