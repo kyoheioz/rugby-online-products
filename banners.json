@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-01T02:59:34.664Z",
+  "updated_at": "2026-10-01T12:00:50.397Z",
   "source": "rugbygoods-top-swiper-scrape",
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "url": "https://www.rugbygoods.com/SHOP/g147786/list.html",
@@ -86,6 +86,11 @@
     {
       "url": "https://www.rugbygoods.com/SHOP/897274/897286/list.html",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/adidas_boots_new_banner_1.webp?t=20260305160723",
+      "alt": ""
+    },
+    {
+      "url": "https://www.rugbygoods.com/SHOP/g78447/list.html",
+      "img": "https://www.rugbygoods.com/pic-labo/gyakua_banner_1.webp",
       "alt": ""
     }
   ]
