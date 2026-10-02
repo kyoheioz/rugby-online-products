@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T03:01:55.997Z",
+  "updated_at": "2026-10-02T11:32:33.001Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
@@ -8,6 +8,12 @@
       "price": "¥27,500",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6535-1.jpg?t=20261002115839",
       "url": "https://www.rugbygoods.com/SHOP/IU6535.html"
+    },
+    {
+      "name": "Adidas Mens Copa Mundial Firm Ground Boot",
+      "price": "¥23,100",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SSS2_AD15110_4003421166702_1-removebg-preview.png?t=20261002110212",
+      "url": "https://www.rugbygoods.com/SHOP/015110.html"
     },
     {
       "name": "ウェールズ代表 26/27 ホームジャージ",
@@ -236,12 +242,6 @@
       "price": "¥9,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-BUR26SMBSI2-1.jpg?t=20251127162855",
       "url": "https://www.rugbygoods.com/SHOP/CSI-BUR26SYBSI2.html"
-    },
-    {
-      "name": "ハリケーンズ 2026 子供用 バスケットボールジャージ",
-      "price": "¥9,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CSI-HUR26SMBSI2-1.png?t=20251129155241",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-HUR26SYBSI2.html"
     }
   ]
 }
