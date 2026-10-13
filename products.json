@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T04:33:15.462Z",
+  "updated_at": "2026-10-13T13:07:48.508Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
@@ -26,6 +26,48 @@
       "price": "¥2,200",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__197746691_0.jpg?t=20261008160149",
       "url": "https://www.rugbygoods.com/SHOP/kyohei-nurie.html"
+    },
+    {
+      "name": "adidas Adizero RS15 Pro FG ハイレゾイエロー/JQ2366",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2366-1.jpg?t=20261008150359",
+      "url": "https://www.rugbygoods.com/SHOP/JQ2366.html"
+    },
+    {
+      "name": "adidas Adizero RS15 Pro FG コアブラック/JQ2365",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2365-1.jpg?t=20261008144348",
+      "url": "https://www.rugbygoods.com/SHOP/JQ2365.html"
+    },
+    {
+      "name": "adidas Adizero RS15 Pro SG ハイレゾイエロー/JQ2363",
+      "price": "¥27,720",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2363-1.jpg?t=20261008143155",
+      "url": "https://www.rugbygoods.com/SHOP/JQ2363.html"
+    },
+    {
+      "name": "adidas Adizero RS15 Pro SG コアブラック/JQ2362",
+      "price": "¥27,720",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2362-1.jpg?t=20261008140730",
+      "url": "https://www.rugbygoods.com/SHOP/JQ2362.html"
+    },
+    {
+      "name": "adidas KAKARI RS SG ハイレゾイエロー/JQ2328",
+      "price": "¥26,730",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2328-1.png?t=20261008121737",
+      "url": "https://www.rugbygoods.com/SHOP/JQ2328.html"
+    },
+    {
+      "name": "adidas Adizero RS15 Ultimate SG フットウェアホワイト/JP8794",
+      "price": "¥23,760",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JP8794-1.jpg?t=20261008113613",
+      "url": "https://www.rugbygoods.com/SHOP/JP8794.html"
+    },
+    {
+      "name": "adidas Adizero RS15 Ultimate SG ルシッドレッド/IH2763",
+      "price": "¥23,760",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IH2763-2.webp?t=20261008110358",
+      "url": "https://www.rugbygoods.com/SHOP/IH2763.html"
     },
     {
       "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE クラシックジャージ",
@@ -200,48 +242,6 @@
       "price": "¥12,100",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSHM26014-1.jpg?t=20260915160015",
       "url": "https://www.rugbygoods.com/SHOP/NWSHM26014.html"
-    },
-    {
-      "name": "NZ WARRIORS 2026 GYMショーツ",
-      "price": "¥12,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSHM26011-1.jpg?t=20260915155934",
-      "url": "https://www.rugbygoods.com/SHOP/NWSHM26011.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027レザーキーリング",
-      "price": "¥2,310",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027FOBKEY-1.jpg?t=20260916091225",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027FOBKEY.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 チャームキーリング",
-      "price": "¥1,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Trofe-2507-27.png?t=20260915154320",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027CHARMKEY.html"
-    },
-    {
-      "name": "RUGBY WORLDCUP AUSTRALIA 2027 ネックストラップ 24Nations",
-      "price": "¥2,310",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RWC2027NATIONSLAN.png?t=20260915153741",
-      "url": "https://www.rugbygoods.com/SHOP/RWC2027NATIONSLAN.html"
-    },
-    {
-      "name": "南アフリカ代表 スプリングボクス BOKKIE マスコットキーリング",
-      "price": "¥4,950",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/BOKKIE-KEY1.jpg?t=20260915130116",
-      "url": "https://www.rugbygoods.com/SHOP/SBBKKY1.html"
-    },
-    {
-      "name": "ショートスリーブ チームジャパンティー(ユニセックス)",
-      "price": "¥6,600",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/RLU32664S-1-removebg-preview.png?t=20260913161616",
-      "url": "https://www.rugbygoods.com/SHOP/RLU32664S.html"
-    },
-    {
-      "name": "Griffin Team トライバルショーツ ホワイト",
-      "price": "¥5,940",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/GRSH0002WH-1.png?t=20260913150413",
-      "url": "https://www.rugbygoods.com/SHOP/GRSH0002WH.html"
     }
   ]
 }
