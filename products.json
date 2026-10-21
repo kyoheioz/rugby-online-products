@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-10-21T02:25:56.932Z",
+  "updated_at": "2026-10-21T10:47:53.698Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "IMPACT V2 Premium Vented アイランドフラワー パシフィックブルー",
+      "price": "¥13,750",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Image_20261021_134601_824-removebg-preview.png?t=20261021134701",
+      "url": "https://www.rugbygoods.com/SHOP/im-v2-if-PB.html"
+    },
+    {
+      "name": "IMPACT V2 Premium Vented 蒼銀龍",
+      "price": "¥13,750",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Image_20261021_134213_664-removebg-preview.png?t=20261021134339",
+      "url": "https://www.rugbygoods.com/SHOP/im-v2-DRGNB.html"
+    },
+    {
+      "name": "IMPACT V2 Premium Vented 紅炎龍",
+      "price": "¥13,750",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Image_20261021_134213_763-removebg-preview.png?t=20261021134403",
+      "url": "https://www.rugbygoods.com/SHOP/im-v2-DRGNR.html"
+    },
+    {
+      "name": "New Era 9Seventy オールブラックス キャップ メタリックシルバー",
+      "price": "¥9,350",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949033_970SS-ALLBLK-BLK-MET-SILV_3QL-removebg-preview.png?t=20261019153658",
+      "url": "https://www.rugbygoods.com/SHOP/70949033.html"
+    },
+    {
+      "name": "New Era 9Forty オールブラックス キャップ シルバーバッジ",
+      "price": "¥8,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/14868022_940AF_ALLBLK_SLVR-TPU_BADGE_3QL-removebg-preview.png?t=20260920160753",
+      "url": "https://www.rugbygoods.com/SHOP/14868020.html"
+    },
+    {
+      "name": "New Era 9Fifty オールブラックス スナップバックキャップ クローム ホワイト",
+      "price": "¥9,350",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949040_950-ALLBLK-CHRM-BLK-2TN_3QL-removebg-preview.png?t=20261019152515",
+      "url": "https://www.rugbygoods.com/SHOP/70949040.html"
+    },
     {
       "name": "ぬって覚えるラグビー図鑑2",
       "price": "¥2,200",
@@ -206,42 +242,6 @@
       "price": "¥11,000",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/DN26MSI1_1.jpg?t=20260917165246",
       "url": "https://www.rugbygoods.com/SHOP/CSI-DN26MSI1.html"
-    },
-    {
-      "name": "NRL シャークス 2026 トレーニングシングレット ブラック",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CS26MSI2_1.jpg?t=20260917165205",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CS26MSI2.html"
-    },
-    {
-      "name": "NRL シャークス 2026 トレーニングシングレット スカイ",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/CS26MSI1_1.jpg?t=20260917165105",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-CS26MSI1.html"
-    },
-    {
-      "name": "New Era 9Forty オールブラックス キャップ メタルシルバー",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/14868022_940AF_ALLBLK_SLVR-TPU_BADGE_3QL-removebg-preview.png?t=20260920160753",
-      "url": "https://www.rugbygoods.com/SHOP/14868022.html"
-    },
-    {
-      "name": "New Era 9Forty オールブラックス キャップ ブラック",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948835_940AF-ALLBLK-BLK-WHI_3QL-removebg-preview.png?t=20260918130226",
-      "url": "https://www.rugbygoods.com/SHOP/70948835.html"
-    },
-    {
-      "name": "New Era 9Forty オールブラックス キャップ ストーン",
-      "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948943-1-removebg-preview.png?t=20260918111434",
-      "url": "https://www.rugbygoods.com/SHOP/70948943.html"
-    },
-    {
-      "name": "NZ WARRIORS 2026 バスケットボールシングレット インディジナス",
-      "price": "¥16,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NWSIM26004-1.jpg?t=20260915160711",
-      "url": "https://www.rugbygoods.com/SHOP/NWSIM26004.html"
     }
   ]
 }
