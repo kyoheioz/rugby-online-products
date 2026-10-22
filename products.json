@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-10-22T02:21:32.265Z",
+  "updated_at": "2026-10-22T04:16:51.323Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "スタッド・トゥールーザン 26/27 ホームジャージ",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6654-1.jpg?t=20261022130633",
+      "url": "https://www.rugbygoods.com/SHOP/IU6654.html"
+    },
     {
       "name": "IMPACT V2 Premium Vented アイランドフラワー パシフィックブルー",
       "price": "¥13,750",
@@ -236,12 +242,6 @@
       "price": "¥11,000",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NK26MSI1_1.jpg?t=20260917165342",
       "url": "https://www.rugbygoods.com/SHOP/CSI-NK26MSI1.html"
-    },
-    {
-      "name": "NRL ドルフィンズ 2026 トレーニングシングレット",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/DN26MSI1_1.jpg?t=20260917165246",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-DN26MSI1.html"
     }
   ]
 }
