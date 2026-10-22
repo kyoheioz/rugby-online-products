@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-10-22T04:16:51.323Z",
+  "updated_at": "2026-10-22T10:48:32.494Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "RCトゥーロン 26/27 サードジャージ",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/A36154-1.jpg?t=20261022170136",
+      "url": "https://www.rugbygoods.com/SHOP/A36154.html"
+    },
+    {
+      "name": "RCトゥーロン 26/27 キャップ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/A36152-1.jpg?t=20261022165400",
+      "url": "https://www.rugbygoods.com/SHOP/A36152.html"
+    },
     {
       "name": "スタッド・トゥールーザン 26/27 ホームジャージ",
       "price": "¥29,700",
@@ -230,18 +242,6 @@
       "price": "¥9,350",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/15132768_1-removebg-preview.png?t=20260924130638",
       "url": "https://www.rugbygoods.com/SHOP/15132768.html"
-    },
-    {
-      "name": "NRL ナイツ 2026 トレーニングシングレット ネイビー",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NK26MSI2_1.jpg?t=20260917165432",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-NK26MSI2.html"
-    },
-    {
-      "name": "NRL ナイツ 2026 トレーニングシングレット ブルー",
-      "price": "¥11,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NK26MSI1_1.jpg?t=20260917165342",
-      "url": "https://www.rugbygoods.com/SHOP/CSI-NK26MSI1.html"
     }
   ]
 }
