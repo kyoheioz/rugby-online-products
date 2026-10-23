@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-10-23T02:26:59.544Z",
+  "updated_at": "2026-10-23T10:40:48.801Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "オールブラックス 26/27 バックパック",
+      "price": "¥7,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX7656-1.jpg?t=20261023124612",
+      "url": "https://www.rugbygoods.com/SHOP/KX7656.html"
+    },
+    {
+      "name": "オールブラックス 26/27 Gym サック",
+      "price": "¥3,300",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX7658-5.jpg?t=20261023125054",
+      "url": "https://www.rugbygoods.com/SHOP/KX7658.html"
+    },
+    {
+      "name": "オールブラックス 26/27 Dad キャップ",
+      "price": "¥3,630",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KX7662-1.jpg?t=20261023120512",
+      "url": "https://www.rugbygoods.com/SHOP/KX7662.html"
+    },
+    {
+      "name": "スタッドフランセ 26/27 サードジャージ",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/35256KW-1.jpg?t=20261023112425",
+      "url": "https://www.rugbygoods.com/SHOP/35256KW.html"
+    },
     {
       "name": "スタッドフランセ 26/27 サードショーツ",
       "price": "¥15,400",
@@ -48,13 +72,13 @@
     {
       "name": "New Era 9Seventy オールブラックス キャップ メタリックシルバー",
       "price": "¥9,350",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949033_970SS-ALLBLK-BLK-MET-SILV_3QL-removebg-preview.png?t=20261019153658",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949033_970SS-ALLBLK-BLK-MET-SILV_3QL.png?t=20261023135710",
       "url": "https://www.rugbygoods.com/SHOP/70949033.html"
     },
     {
       "name": "New Era 9Forty オールブラックス キャップ シルバーバッジ",
       "price": "¥8,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/14868022_940AF_ALLBLK_SLVR-TPU_BADGE_3QL-removebg-preview.png?t=20260920160753",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/14868022_940AF_ALLBLK_SLVR-TPU.png?t=20261023135830",
       "url": "https://www.rugbygoods.com/SHOP/14868020.html"
     },
     {
@@ -218,30 +242,6 @@
       "price": "¥5,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SM1327GR-1.jpg?t=20260929162405",
       "url": "https://www.rugbygoods.com/SHOP/SM1327GR.html"
-    },
-    {
-      "name": "レッズ 2026 トレーニングTシャツ レッド",
-      "price": "¥8,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009976_467_1.jpg?t=20260929115407",
-      "url": "https://www.rugbygoods.com/SHOP/QA009976M.html"
-    },
-    {
-      "name": "レッズ 2026 トレーニングTシャツ ネイビー",
-      "price": "¥8,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009976_769_1.jpg?t=20260929115148",
-      "url": "https://www.rugbygoods.com/SHOP/QA009976N.html"
-    },
-    {
-      "name": "レッズ 2026 Pasifika GYMショーツ",
-      "price": "¥8,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009975_9AA_1.jpg?t=20260929114108",
-      "url": "https://www.rugbygoods.com/SHOP/QA009975.html"
-    },
-    {
-      "name": "New Era 9Twenty オールブラックス キャップ カモ",
-      "price": "¥9,350",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/15132768_1-removebg-preview.png?t=20260924130638",
-      "url": "https://www.rugbygoods.com/SHOP/15132768.html"
     }
   ]
 }
