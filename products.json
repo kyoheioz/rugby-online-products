@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-10-26T02:12:33.739Z",
+  "updated_at": "2026-10-26T11:48:56.430Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "南アフリカ代表 スプリングボクス ボブルヘッド ピーターステフ・デュトイ",
+      "price": "¥7,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/BOKSBH-DT-4.png?t=20261026164507",
+      "url": "https://www.rugbygoods.com/SHOP/BOKSBH-DT.html"
+    },
     {
       "name": "オールブラックス 26/27 バックパック",
       "price": "¥7,700",
@@ -236,12 +242,6 @@
       "price": "¥5,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SM1327GR-1.jpg?t=20260929162405",
       "url": "https://www.rugbygoods.com/SHOP/SM1327GR.html"
-    },
-    {
-      "name": "レッズ 2026 トレーニングTシャツ レッド",
-      "price": "¥8,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009976_467_1.jpg?t=20260929115407",
-      "url": "https://www.rugbygoods.com/SHOP/QA009976M.html"
     }
   ]
 }
