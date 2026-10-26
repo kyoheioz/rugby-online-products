@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T20:07:25.213Z",
+  "updated_at": "2026-10-26T02:12:33.739Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
@@ -68,12 +68,6 @@
       "price": "¥13,750",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Image_20261021_134213_763-removebg-preview.png?t=20261021134403",
       "url": "https://www.rugbygoods.com/SHOP/im-v2-DRGNR.html"
-    },
-    {
-      "name": "New Era 9Seventy オールブラックス キャップ メタリックシルバー",
-      "price": "¥9,350",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949033_970SS-ALLBLK-BLK-MET-SILV_3QL.png?t=20261023135710",
-      "url": "https://www.rugbygoods.com/SHOP/70949033.html"
     },
     {
       "name": "New Era 9Forty オールブラックス キャップ シルバーバッジ",
@@ -242,6 +236,12 @@
       "price": "¥5,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SM1327GR-1.jpg?t=20260929162405",
       "url": "https://www.rugbygoods.com/SHOP/SM1327GR.html"
+    },
+    {
+      "name": "レッズ 2026 トレーニングTシャツ レッド",
+      "price": "¥8,980",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009976_467_1.jpg?t=20260929115407",
+      "url": "https://www.rugbygoods.com/SHOP/QA009976M.html"
     }
   ]
 }
