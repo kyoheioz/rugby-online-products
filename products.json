@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-10-27T21:34:15.498Z",
+  "updated_at": "2026-10-28T02:56:50.541Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "オーストラリア代表 ワラビーズ 26/27 Performance シャワージャケット",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TU14821-1.jpg?t=20261028092713",
+      "url": "https://www.rugbygoods.com/SHOP/TU14821.html"
+    },
     {
       "name": "南アフリカ代表 スプリングボクス BOKKIE ぬいぐるみ",
       "price": "¥9,900",
@@ -236,12 +242,6 @@
       "price": "¥9,350",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949023_970SS_20ALLBLK_20BLK_20WHI_3QL.webp?t=20260930121721",
       "url": "https://www.rugbygoods.com/SHOP/70949023.html"
-    },
-    {
-      "name": "フィジアンドゥルアバスケットショーツ ネイビー",
-      "price": "¥5,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SM1327NV-1.jpg?t=20260929161455",
-      "url": "https://www.rugbygoods.com/SHOP/SM1327NV.html"
     }
   ]
 }
