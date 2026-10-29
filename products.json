@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-10-29T03:22:35.810Z",
+  "updated_at": "2026-10-29T11:56:10.174Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "フランス代表 26/27 バックパック",
+      "price": "¥19,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KY3297-1.jpg?t=20261029160516",
+      "url": "https://www.rugbygoods.com/SHOP/KY3297.html"
+    },
     {
       "name": "オーストラリア代表 ワラビーズ 26/27 Performance シャワージャケット",
       "price": "¥29,700",
@@ -236,12 +242,6 @@
       "price": "¥4,980",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/F2510BL-1.jpg?t=20260930153141",
       "url": "https://www.rugbygoods.com/SHOP/F2510BL.html"
-    },
-    {
-      "name": "New Era 9Seventy オールブラックス キャップ ブラック",
-      "price": "¥9,350",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70949023_970SS_20ALLBLK_20BLK_20WHI_3QL.webp?t=20260930121721",
-      "url": "https://www.rugbygoods.com/SHOP/70949023.html"
     }
   ]
 }
