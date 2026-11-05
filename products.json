@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-11-05T04:06:45.993Z",
+  "updated_at": "2026-11-05T13:41:03.075Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE ストライプ長袖ジャージ",
+      "price": "¥28,600",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IZ1604-1.jpg?t=20261105164646",
+      "url": "https://www.rugbygoods.com/SHOP/IZ1604.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE ジャージ ホワイト",
+      "price": "¥27,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NKSA267HJW-1.jpg?t=20261105164101",
+      "url": "https://www.rugbygoods.com/SHOP/NKSA267HJW.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE ポロシャツ",
+      "price": "¥19,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NKSB267PL-1.jpg?t=20261105155002",
+      "url": "https://www.rugbygoods.com/SHOP/NKSB267PL.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 バケットハット グリーン",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IZ1697-1.jpg?t=20261105144636",
+      "url": "https://www.rugbygoods.com/SHOP/IZ1697.html"
+    },
+    {
+      "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE TRUCKER キャップ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/NKSA267TC-1.jpg?t=20261105143605",
+      "url": "https://www.rugbygoods.com/SHOP/IZ1700.html"
+    },
     {
       "name": "オーストラリア代表 ワラビーズ 2026 FIRST NATION ジャージ",
       "price": "¥29,700",
@@ -212,36 +242,6 @@
       "price": "¥27,500",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6535-1.jpg?t=20261002115839",
       "url": "https://www.rugbygoods.com/SHOP/IU6535.html"
-    },
-    {
-      "name": "Adidas Mens Copa Mundial Firm Ground Boot",
-      "price": "¥23,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/SSS2_AD15110_4003421166702_1-removebg-preview.png?t=20261002110212",
-      "url": "https://www.rugbygoods.com/SHOP/015110.html"
-    },
-    {
-      "name": "ウェールズ代表 26/27 ホームジャージ",
-      "price": "¥29,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/60015531-8.jpg?t=20261002104641",
-      "url": "https://www.rugbygoods.com/SHOP/60015531.html"
-    },
-    {
-      "name": "スコットランド代表 26/27 ホームジャージ",
-      "price": "¥29,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/60015027-7.webp?t=20261002104530",
-      "url": "https://www.rugbygoods.com/SHOP/60015027.html"
-    },
-    {
-      "name": "フィジー Muscleベスト Yasayasa ブルー",
-      "price": "¥4,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TM4847BL-1.jpg?t=20260930163259",
-      "url": "https://www.rugbygoods.com/SHOP/TM4847BL.html"
-    },
-    {
-      "name": "フィジー Muscleベスト Niu ブラック",
-      "price": "¥4,980",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/TM4848BB-1.jpg?t=20260930163008",
-      "url": "https://www.rugbygoods.com/SHOP/TM4748BB.html"
     }
   ]
 }
