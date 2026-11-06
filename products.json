@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-05T23:00:11.684Z",
+  "updated_at": "2026-11-06T04:04:16.976Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "アイルランド代表 26/27 ホームジャージ",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Q-A010138-1.jpg?t=20261106101730",
+      "url": "https://www.rugbygoods.com/SHOP/Q-A010138.html"
+    },
+    {
+      "name": "アイルランド代表 26/27 1/4ZIP ジャケット",
+      "price": "¥29,700",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Q-A009708CG9-1.webp?t=20261106092531",
+      "url": "https://www.rugbygoods.com/SHOP/Q-A009708CG9.html"
+    },
     {
       "name": "南アフリカ代表 スプリングボクス 26/27 HERITAGE ストライプ長袖ジャージ",
       "price": "¥28,600",
@@ -230,18 +242,6 @@
       "price": "¥23,760",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JP8794-1.jpg?t=20261008113613",
       "url": "https://www.rugbygoods.com/SHOP/JP8794.html"
-    },
-    {
-      "name": "adidas Adizero RS15 Ultimate SG ルシッドレッド/IH2763",
-      "price": "¥23,760",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IH2763-2.webp?t=20261008110358",
-      "url": "https://www.rugbygoods.com/SHOP/IH2763.html"
-    },
-    {
-      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE クラシックジャージ",
-      "price": "¥27,500",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6535-1.jpg?t=20261002115839",
-      "url": "https://www.rugbygoods.com/SHOP/IU6535.html"
     }
   ]
 }
