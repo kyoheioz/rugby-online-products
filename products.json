@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-10T00:57:45.787Z",
+  "updated_at": "2026-11-10T13:55:45.281Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "New Era 9Forty オールブラックス キャップ ブラックアウト",
+      "price": "¥8,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/70948837_940AFALLBLKBOB_3QL.webp?t=20261110151658",
+      "url": "https://www.rugbygoods.com/SHOP/70948837.html"
+    },
+    {
+      "name": "asics  Rugby LETHAL RELENTLESS",
+      "price": "¥24,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/1111A259-002-1.jpg?t=20261110144209",
+      "url": "https://www.rugbygoods.com/SHOP/1111A259-002.html"
+    },
     {
       "name": "アイルランド代表 26/27 ホームジャージ",
       "price": "¥29,700",
@@ -230,18 +242,6 @@
       "price": "¥27,720",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2362-1.jpg?t=20261008140730",
       "url": "https://www.rugbygoods.com/SHOP/JQ2362.html"
-    },
-    {
-      "name": "adidas KAKARI RS SG ハイレゾイエロー/JQ2328",
-      "price": "¥26,730",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2328-1.png?t=20261008121737",
-      "url": "https://www.rugbygoods.com/SHOP/JQ2328.html"
-    },
-    {
-      "name": "adidas Adizero RS15 Ultimate SG フットウェアホワイト/JP8794",
-      "price": "¥23,760",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JP8794-1.jpg?t=20261008113613",
-      "url": "https://www.rugbygoods.com/SHOP/JP8794.html"
     }
   ]
 }
