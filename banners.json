@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-11-10T22:38:33.755Z",
+  "updated_at": "2026-11-11T03:40:25.558Z",
   "source": "rugbygoods-top-swiper-scrape",
-  "count": 19,
+  "count": 20,
   "items": [
+    {
+      "url": "https://www.rugbygoods.com/SHOP/1108323/892556/list.html",
+      "img": "https://www.rugbygoods.com/pic-labo/rntcpbn-1.webp",
+      "alt": ""
+    },
     {
       "url": "https://www.rugbygoods.com/SHOP/892559/892724/list.html",
       "img": "https://www.rugbygoods.com/pic-labo/NKSB267BN-1.webp",
