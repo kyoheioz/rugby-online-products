@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-11-12T04:48:49.411Z",
+  "updated_at": "2026-11-12T14:12:29.341Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "ピースエイト Re：アーム　1枚入",
+      "price": "¥3,850",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__201850883_0.jpg?t=20261112145207",
+      "url": "https://www.rugbygoods.com/SHOP/RE001ARM.html"
+    },
+    {
+      "name": "ピースエイトRe：グラファイトシリカテープ",
+      "price": "¥1,650",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__201850884_0.jpg?t=20261112145234",
+      "url": "https://www.rugbygoods.com/SHOP/RE002SILICA.html"
+    },
+    {
+      "name": "ピースエイト Re：カーフ",
+      "price": "¥9,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/9_000000000053.png?t=20261112142459",
+      "url": "https://www.rugbygoods.com/SHOP/RE001CALF.html"
+    },
+    {
+      "name": "ピースエイト Re：バッサージ",
+      "price": "¥3,850",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__201850885_0.jpg?t=20261112145302",
+      "url": "https://www.rugbygoods.com/SHOP/RE002BAS.html"
+    },
+    {
+      "name": "ピースエイト Re：メンズパンツ",
+      "price": "¥5,280",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__201850886_0.jpg?t=20261112145328",
+      "url": "https://www.rugbygoods.com/SHOP/RE001HIPM.html"
+    },
     {
       "name": "New Era 9Forty オールブラックス キャップ ブラックアウト",
       "price": "¥8,800",
@@ -212,36 +242,6 @@
       "price": "¥23,100",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/km4602_1.png?t=20261009154335",
       "url": "https://www.rugbygoods.com/SHOP/KM4602.html"
-    },
-    {
-      "name": "ぬって覚えるラグビー図鑑",
-      "price": "¥2,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__197746691_0.jpg?t=20261008160149",
-      "url": "https://www.rugbygoods.com/SHOP/kyohei-nurie.html"
-    },
-    {
-      "name": "adidas Adizero RS15 Pro FG ハイレゾイエロー/JQ2366",
-      "price": "¥29,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2366-1.jpg?t=20261008150359",
-      "url": "https://www.rugbygoods.com/SHOP/JQ2366.html"
-    },
-    {
-      "name": "adidas Adizero RS15 Pro FG コアブラック/JQ2365",
-      "price": "¥29,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2365-1.jpg?t=20261008144348",
-      "url": "https://www.rugbygoods.com/SHOP/JQ2365.html"
-    },
-    {
-      "name": "adidas Adizero RS15 Pro SG ハイレゾイエロー/JQ2363",
-      "price": "¥27,720",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2363-1.jpg?t=20261008143155",
-      "url": "https://www.rugbygoods.com/SHOP/JQ2363.html"
-    },
-    {
-      "name": "adidas Adizero RS15 Pro SG コアブラック/JQ2362",
-      "price": "¥27,720",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2362-1.jpg?t=20261008140730",
-      "url": "https://www.rugbygoods.com/SHOP/JQ2362.html"
     }
   ]
 }
