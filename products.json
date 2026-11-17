@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-11-17T01:15:55.784Z",
+  "updated_at": "2026-11-17T15:06:35.633Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "アイルランド代表 26/27 トラックパンツ",
+      "price": "¥19,800",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/QA009709-1.jpg?t=20261117164004",
+      "url": "https://www.rugbygoods.com/SHOP/QA009709.html"
+    },
     {
       "name": "ピースエイト Re：アーム　1枚入",
       "price": "¥3,850",
@@ -236,12 +242,6 @@
       "price": "¥2,200",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__197746691_0.jpg?t=20261008160149",
       "url": "https://www.rugbygoods.com/SHOP/kyohei-nurie.html"
-    },
-    {
-      "name": "adidas Adizero RS15 Pro FG ハイレゾイエロー/JQ2366",
-      "price": "¥29,700",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/JQ2366-1.jpg?t=20261008150359",
-      "url": "https://www.rugbygoods.com/SHOP/JQ2366.html"
     }
   ]
 }
