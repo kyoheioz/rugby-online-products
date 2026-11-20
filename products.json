@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-11-20T06:02:07.175Z",
+  "updated_at": "2026-11-20T19:23:18.791Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "レッズ 2027 Pasifika WARM UP Tシャツ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_Reds_261120_1.jpg?t=20261120145544",
+      "url": "https://www.rugbygoods.com/SHOP/Q-A010955989.html"
+    },
+    {
+      "name": "レッズ 2027  Pasifika シングレット",
+      "price": "¥9,900",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_Reds_261120_4.jpg?t=20261120144901",
+      "url": "https://www.rugbygoods.com/SHOP/Q-A010921989.html"
+    },
+    {
+      "name": "レッズ 2027  Pasifika GYMショーツ",
+      "price": "¥11,000",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/LINE_ALBUM_Reds_261120_6.jpg?t=20261120144152",
+      "url": "https://www.rugbygoods.com/SHOP/Q-A010917989.html"
+    },
     {
       "name": "アイルランド代表 26/27 トラックパンツ",
       "price": "¥19,800",
@@ -224,24 +242,6 @@
       "price": "¥23,100",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/714145_1.webp?t=20261009155236",
       "url": "https://www.rugbygoods.com/SHOP/714145.html"
-    },
-    {
-      "name": "ブルズ 26/27 アウェイジャージ",
-      "price": "¥23,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/714146_1.webp?t=20261009154812",
-      "url": "https://www.rugbygoods.com/SHOP/714146.html"
-    },
-    {
-      "name": "DHL ストーマーズ 26/27 ホーム ジャージ",
-      "price": "¥23,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/km4602_1.png?t=20261009154335",
-      "url": "https://www.rugbygoods.com/SHOP/KM4602.html"
-    },
-    {
-      "name": "ぬって覚えるラグビー図鑑",
-      "price": "¥2,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/S__197746691_0.jpg?t=20261008160149",
-      "url": "https://www.rugbygoods.com/SHOP/kyohei-nurie.html"
     }
   ]
 }
