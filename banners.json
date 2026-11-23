@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T04:37:59.137Z",
+  "updated_at": "2026-11-23T16:46:41.618Z",
   "source": "rugbygoods-top-swiper-scrape",
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "url": "https://www.rugbygoods.com/SHOP/g153448/list.html",
@@ -10,7 +10,12 @@
     },
     {
       "url": "https://www.rugbygoods.com/SHOP/1108323/892556/list.html",
-      "img": "https://www.rugbygoods.com/pic-labo/rntcpbn-2.png",
+      "img": "https://www.rugbygoods.com/pic-labo/rntcpbn-4.webp",
+      "alt": ""
+    },
+    {
+      "url": "https://www.rugbygoods.com/SHOP/897337/920263/list.html",
+      "img": "https://www.rugbygoods.com/pic-labo/SUPERRUGBYPF2027bn-1.webp",
       "alt": ""
     },
     {
