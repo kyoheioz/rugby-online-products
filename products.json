@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-25T01:43:51.986Z",
+  "updated_at": "2026-11-25T16:24:30.067Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "スタッド・トゥールーザン 26/27 スウェットフーディー",
+      "price": "¥27,500",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/A36192-1.jpg?t=20261125144758",
+      "url": "https://www.rugbygoods.com/SHOP/A36192.html"
+    },
+    {
+      "name": "ラグビー日本代表×スヌーピー フェイスタオル(ピンク)",
+      "price": "¥2,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/xt26206524-1.jpg?t=20261125142857",
+      "url": "https://www.rugbygoods.com/SHOP/XT25206524.html"
+    },
     {
       "name": "レッズ 2027 Pasifika WARM UP Tシャツ",
       "price": "¥11,000",
@@ -230,18 +242,6 @@
       "price": "¥19,800",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6647-1.jpg?t=20261016153144",
       "url": "https://www.rugbygoods.com/SHOP/IU6647.html"
-    },
-    {
-      "name": "フランス代表 26/27 フルジップ トラベルジャケット",
-      "price": "¥33,000",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/KF8891-1.jpg?t=20261015161215",
-      "url": "https://www.rugbygoods.com/SHOP/KF8891.html"
-    },
-    {
-      "name": "ブルズ 26/27 ホームジャージ",
-      "price": "¥23,100",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/714145_1.webp?t=20261009155236",
-      "url": "https://www.rugbygoods.com/SHOP/714145.html"
     }
   ]
 }
