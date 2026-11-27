@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-27T01:15:26.558Z",
+  "updated_at": "2026-11-27T15:47:36.433Z",
   "source": "shopserve-new-arrivals-scrape+basic-api",
   "count": 40,
   "items": [
+    {
+      "name": "ラグビー日本代表 2027年 オフィシャル 壁掛カレンダー",
+      "price": "¥3,080",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/97f348fd8b32292a2a5aeb2b04dfe.jpg?t=20261127113509",
+      "url": "https://www.rugbygoods.com/SHOP/SSZS-86412.html"
+    },
+    {
+      "name": "ラグビー日本代表 2027年 卓上カレンダー",
+      "price": "¥2,200",
+      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/6387c7d31f8e9093b35d0034d2c81.jpg?t=20261127112718",
+      "url": "https://www.rugbygoods.com/SHOP/SSZS-86413.html"
+    },
     {
       "name": "スタッド・トゥールーザン 26/27 スウェットフーディー",
       "price": "¥27,500",
@@ -230,18 +242,6 @@
       "price": "¥13,750",
       "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/Image_20261021_134213_763-removebg-preview.png?t=20261021134403",
       "url": "https://www.rugbygoods.com/SHOP/im-v2-DRGNR.html"
-    },
-    {
-      "name": "ぬって覚えるラグビー図鑑2",
-      "price": "¥2,200",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/nurie.jpg?t=20261017093749",
-      "url": "https://www.rugbygoods.com/SHOP/kyohei-nurie2.html"
-    },
-    {
-      "name": "スタッド・トゥールーザン 26/27 LIFESTYLE ROSE スウェットロングパンツ",
-      "price": "¥19,800",
-      "img": "https://image1.shopserve.jp/rugbygoods.com/pic-labo/limg/IU6647-1.jpg?t=20261016153144",
-      "url": "https://www.rugbygoods.com/SHOP/IU6647.html"
     }
   ]
 }
